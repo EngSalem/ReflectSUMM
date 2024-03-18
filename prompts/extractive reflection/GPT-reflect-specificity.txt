@@ -1,0 +1,4 @@
+"""
+    reflections: [reflection] \n Can you summarize the reflections, which are split by the special token ||. Each reflection ends with a special marker -> and the specificity score in a range of 1-4, where 1 is the least specific and 4 is the most specific. Here is one example: ### "I found the failure of that bridge and how it happened interesting. -> 3.0\
+        ||The failiures that sometimes result from engineering -> 3.0" \n Can you extract and select 5 original reflections from the split list by removing the ending "->" with the specificity score? \n\n
+"""

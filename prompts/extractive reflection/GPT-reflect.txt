@@ -1,0 +1,2 @@
+"""
+    reflections: [reflections] \n Can you summarize the reflections, which are split by the special token |_|, by extract and select 5 original reflections from the split list? \n"""

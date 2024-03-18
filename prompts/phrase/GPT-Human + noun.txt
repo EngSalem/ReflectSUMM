@@ -1,0 +1,4 @@
+"""reflections: {{reflections}}
+Create a summary using five noun phrases together with how many students
+semantically mentioned each phrase in parenthesis. You can use your own
+phrases."""

@@ -1,0 +1,1405 @@
+,oracle,generation
+0,"The DIKW pyramid was confusing at first, but after we did some examples, I understood it further.
+Can robots have wisdom in DIKW Pyramid
+I think professor is really great!
+Nothing was confusing in todays class, I believe the instructor did good.
+I think entropy could have been covered more, I've heard the term being thrown around and would want more context.","The DIKW pyramid was confusing at first, but after we did some examples, I understood it further.
+The difference between information and knowledge was a little confusing but I started to understand it in the end
+I needed more examples on the Data, Information, Knowledge, and Wisdom triangle
+I think the difference between knowledge in wisdom when related to data was confusing for me. When other students were asking if some instance was a correct example it was hard for me to follow what the knowledge would be and what the wisdom would be etc.
+I think that the idea was described well. The top hat questions and discussions helped me understand the pyramid fairly well!"
+1,"Nothing was confusing today.
+Nothing was confusing it was a standard class with binary numbers
+Binary was just confusing too me, you did a good job explaining it I just did not understand it too much.
+I feel like the binary to words was a bit confusing with the chart. It was hard to convert from one to the other.
+Bits to letters","I thought how computers use bits to put forth sound was a little confusing. I get the time measurement part, but I think my confusion arises perhaps from what the computers exactly do with those numbers to create sound. It sounds to me like they are mapping sound but how do they recreate it using that map? Also, when you put up the slide with the byte that could represent a number or a color, how does the computer know what the data represents?
+Nothing was confusing it was a standard class with binary numbers
+Nothing was confusing today.
+I feel like the binary to words was a bit confusing with the chart. It was hard to convert from one to the other.
+Binary was just confusing too me, you did a good job explaining it I just did not understand it too much."
+2,"The concept of graphs was most interesting. Coincidentally, I started to learn about graphs yesterday in CS 1501!
+graphs and their relations to social networks
+Networks with Facebook and different types of networks
+I was super interested in the dude who did the 6 hops experiment and what his findings were
+I loved the experiment and how close we all are to each other. I wish we learned more about it.","I found the graphs to be most interesting like Facebook and twitters and determine what the nodes and edges were.
+One thing I found interesting was how networks can have multiple paths from one point to another with varying levels of efficiency.
+graphs and their relations to social networks
+The concept of graphs was most interesting. Coincidentally, I started to learn about graphs yesterday in CS 1501!
+The map of the internet was fantastic it was supper interesting with how the web was all conected and how it it was"
+3,"I liked the Dikw pyramid because it provided a little background into the idea of computing and information.
+The DIKW pyramid. it was interesting to see how information and data can be classified.
+That information is entropy and entropy is surprise.
+I liked the concept of entropy and bits. I take chemistry so entropy is interesting to me, and I never heard about it from a computer science perspective.
+When giving examples of how self driving cars would be have wisdom, knowledge, and data that was very interesting to think about. It was also great how Top Hat allowed for all of the students answers to be collectively shown on the screen.","The DIKW pyramid. it was interesting to see how information and data can be classified.
+I liked the Dikw pyramid because it provided a little background into the idea of computing and information.
+The DIKW pyramid was most interesting.
+Thinking about the DIKW pyramid with the sled driving car was interesting
+The pyramid and how specific aspects of Knowledge are categorized."
+4,"Nothing was confusing good class
+Nothing was confusing
+In the example with a structure of names, I was confused as to how you would set a limit of names that could be searched for using a lookup function. Would there always be a predetermined amount you could search for considering memory capacities or is there a more efficient method to search for even more names without comprising additional space?
+more (concrete) examples of how structure dictates function
+I was very interested in the functions examples","I understood everything in class perfectly that structure dictates function
+Nothing was confusing good class
+I found todays class quite easy today. But Data structuring and the tree were nice and easy to follow.
+more (concrete) examples of how structure dictates function
+The recursion problem at the end of class"
+5,"Nothing was confusing
+I was wondering who's ethics an ai would obey if they were created
+The scale of algorithms and how they affect whether or not an algorithm is ethical or not.
+I was kinda confused about the weapons of mass distraction I was kinda like why when I heard it and could not follow
+Bias in data and systems, and would like to learn more about economic inequality as a social implication.","overt racism
+I was kinda confused about the weapons of mass distraction I was kinda like why when I heard it and could not follow
+PII was confusing
+What the meaning of opaqueness is.
+None"
+6,"I found the whole class to be very interesting today. Specifically I found Leverage Points and discussing the Tragedy of the commons.
+The different examples given that relate to the real world
+The idea about how outside factors can influence self organization
+I liked learning about how the system is usually at fault for problems in general. It made me think about humanitarian issues like food shortages and racism.
+the examples in the lecture were the most interesting","I found the examples of different systems to be helpful in showing what the flow or stock in a system is. 
+I found the idea of hierarchy interesting when talking about systems. 
+I found the different real-life examples of systems, such as bathtubs, compounding interest, and car sales to be interesting. The car sale example was especially interesting because it emphasized the point that a purpose is not always obvious. 
+the examples in the lecture were the most interesting 
+The most interesting aspect of the class was the systems diagrams. They helped to explain the concepts well enough. "
+7,"LZW
+Entropy
+Graphs
+Compression vs. Expanding
+Representing graphs as a matrix!","Graphs and Entropy
+lzw
+Which compressions are better
+Compression vs. Expanding
+LZW"
+8,"How Huffman Compression generates prefix free code words
+DLB
+binary i/o
+How compression can be very helpful in the real world
+Huffman compression and pre-order traversal","Huffman compression and pre-order traversal
+How Huffman Compression generates prefix free code words
+Encoding a file using Huffman compression
+Huffman Compression
+compress"
+9,"Binary tree terminology. child, node, full, complete
+The in order and pre order traversal was interesting.
+Recursion is difficult but the distinction between tail recursive and non tail recursive functions was interesting to think about!
+Seeing the types of traversals as diagrams, and then as a block of code was really cool and helpful
+The different ways you can traverse a binary trees","Binary Trees and tail recursive calls
+The different ways you can traverse a binary trees
+Binary trees
+The binary trees seemed pretty neat
+How backtracking works on trees"
+10,"The in order review of the binary tree
+Filling in the Binary Search Tree
+finding the largest left item or smallest right item and using it to replace the node after ndoe deletion
+binary search tree remove add
+Tree traversals seem neat","red black tree
+binary search tree remove add
+It was confusing how to add one binary tree into another. I thought a tree could only have nodes.
+The in order review of the binary tree
+The binary search tree"
+11,"The runtime analysis equation and being able to actually see some of the math behind it
+The thing that I found most interesting was breaking apart the various loops and analyzing each component of it to calculate the overall runtime.
+I really found the analysis examples we went through to be interesting. I have learned about it much before, but your examples were super effective!
+The mathematical definitions of the Big-O Big-Theta and Big-Omega functions was really cool.
+I thought it was interesting to go through the code examples and figure out how to analyze the runtime.","Big O analysis
+The thing that I found most interesting was breaking apart the various loops and analyzing each component of it to calculate the overall runtime. 
+The runtime analysis equation and being able to actually see some of the math behind it
+runtime analysis and calculation
+I thought it was interesting to go through the code examples and figure out how to analyze the runtime."
+12,"the test results! omg!
+Learning how changing the base cases between full and extended binary trees produces largely different results
+Recursion is interesting especially with the example about length of swapping characters. The logic in such an easy process for us to compute is interesting
+I like the idea of induction over strings.
+Recursion is interesting especially with the example about length of swapping characters. The logic in such an easy process for us to compute is interesting","I like the idea of induction over strings.
+The applications of the recursive method
+Like last class, I still think recursion is something that I can grasp due to me being familiar with it already in a sense. 
+the test results! omg! 
+Recursion is interesting especially with the example about length of swapping characters. The logic in such an easy process for us to compute is interesting"
+13,"The inductive step in the structural induction proof where a binary search tree at involves at most h(T) + 1 comparison operators was slightly hard to grasp, even after much thought.
+I still don't understand the process of structural induction. the induction step is more difficult which I struggle with
+The inductive step in the structural induction proof where a binary search tree at involves at most h(T) + 1 comparison operators was slightly hard to grasp, even after much thought.
+Height of a tree
+The inductive step in the structural induction proof where a binary search tree at involves at most h(T) + 1 comparison operators was slightly hard to grasp, even after much thought.","The inductive step in the structural induction proof where a binary search tree at involves at most h(T) + 1 comparison operators was slightly hard to grasp, even after much thought.
+The proofs involving binary trees and height using induction were confusing for me having a hard time grasping the overall concept 
+I was a little confused at the structural induction proof we did for trees
+I think that structural induction with the different trees is still a bit confusing to me and I haven't fully gotten it yet.
+None"
+14,"I thought that the different ways to solve the different combinations and permutations with formulas was interesting.
+i thought the end of class when we looked at examples of cases with indistinguishable and distinguishable objects and boxes and their differences was interesting
+Getting a more intuitive understanding of how to approach certain problems like the dividers of boxes instead of the boxes
+I found the closed form formulas for the first two classes of problems to be very interesting how a complex problem can be summed up using a simple closed form summation
+I found the closed form formulas for the first two classes of problems to be very interesting how a complex problem can be summed up using a simple closed form summation","i thought the end of class when we looked at examples of cases with indistinguishable and distinguishable objects and boxes and their differences was interesting 
+I thought that the different ways to solve the different combinations and permutations with formulas was interesting.
+Seeing how easy it was to do string permutations when the characters repeat(e.g. RADAR is 5!/2!2!) was interesting to me.
+Repetition is really interesting to have to accommodate for
+N/A"
+15,"I thought the most interesting thing was the problem that showed that 12+ cents of postage could be paid using 4 cent and 5 cent stamps. It really made me understand how strong induction is different from mathematical induction.
+I now think that regular induction is pretty easy to grasp. I have gotten fairly good at most of them.
+The concept of using multiple base cases to make the inductive steps easier
+I thought the most interesting thing was the problem that showed that 12+ cents of postage could be paid using 4 cent and 5 cent stamps. It really made me understand how strong induction is different from mathematical induction.
+I think strong induction is very interesting since its like a modified mathematical induction, donuts quite easy to understand since we already know the structure of what to do","Learning how strong induction often requires more planning with respect to base cases to help prove the inductive step.
+I think strong induction is very interesting since its like a modified mathematical induction, donuts quite easy to understand since we already know the structure of what to do
+I thought the most interesting thing was the problem that showed that 12+ cents of postage could be paid using 4 cent and 5 cent stamps. It really made me understand how strong induction is different from mathematical induction. 
+Strong induction and normal induction are proven to be equivalent even though they are different concepts.
+Honestly, strong induction does seem very interesting as a means of proving things, but it is hard to understand at least for me. "
+16,"Seeing the graphs before you started explaining the concept of variance enhanced my appreciation for the purpose of variance.
+Bernoulli's now is interesting since its so simple. Also for evaluating spam, I thought the formula was interesting and wondered how complex the formula can get for more advanced levels of spam filtering
+Learning how Bayes' Theorem can be used in real life applications given statistics, especially the spam example was interesting
+Seeing the graphs before you started explaining the concept of variance enhanced my appreciation for the purpose of variance.
+I thought that the applications of the bayes' theorem with spam values and vaccines was really cool.","I found the applications incredibly interesting, especially about the spam filters
+Spam filter 
+Being able to ask stupid questions all the time 
+I thought that the applications of the bayes' theorem with spam values and vaccines was really cool.
+Learning how Bayes' Theorem can be used in real life applications given statistics, especially the spam example was interesting"
+17,"Seeing the intricate errors that may occur with proof by cases is fascinating to me.
+Sets are interesting
+Proofs have no single strategy for solving them and even the best mathematicians get stuck sometimes.
+I thought that everything was really cool and unique, but the best was seeing that if you're able to, you can prove by just doing some simple arithmetic if it is just asking for one case.
+While it was confusing, it genuinely was interesting to see how different proofs can be used","While it was confusing, it genuinely was interesting to see how different proofs can be used
+I thought that everything was really cool and unique, but the best was seeing that if you're able to, you can prove by just doing some simple arithmetic if it is just asking for one case.
+Learning about how the non-constructive proof can be used. Especially with the example.
+How the process of proving something in mathematics is like examples of how to do something 
+Seeing the intricate errors that may occur with proof by cases is fascinating to me."
+18,"N-tuple is still difficult for me to understand
+Some elaboration on how to understand the Russel Paradox for sets would be helpful
+The Cartesian products and essentially everything in the last two slides was especially confusing. In general I often feel like the last couple slides of each lecture are squeezed in and not explained as clearly or slowly as the rest of the content. But this is usually corrected in the next lecture of for this week videos.
+I was confused about ordered n-tuples and Cartesian products. They both covered rather quickly towards the end of class and I felt as though I didn't have time to process the information. Cartesian products are especially confusing because I'm enrolled in calc 1 at the same time as this class. I have yet to learn about anything in calc 1 that would support my understanding.
+Today the only thing that I thought was slightly confusing was working with elements that are sets themselves. Other than that today was rather simple and practice problems should help solve my previous issue.","The end of the class with Cartesian products and also set Builder notation for me is a little confusing, but I think we will definitely go over it more eventually.
+nothing was confusing today!
+Nothing was confusing today.
+None of the concepts in class were confusing today. 
+Nothing was confusing "
+19,"Cardinality of infinite sets was the most confusing today.
+I don't understand how rationals are countable. I don't understand why zig zagging is needed
+The simplification process for me is a little confusing and hard for me to realize when to implement and when to do it correctly.
+The addition of summations and rewriting them to make the addable was definitely confusing to me
+I was slightly confused by the proof for geometric series, but besides that, everything was good.","I think that there could have been a few more examples and explanation for nested sequences. 
+I was slightly confused by the proof for geometric series, but besides that, everything was good.
+The addition of summations and rewriting them to make the addable was definitely confusing to me 
+It would be helpful if the tables from the book referenced in slides had pages numbers written on the slides.
+The simplification process for me is a little confusing and hard for me to realize when to implement and when to do it correctly."
+20,"I think some rules of inference, such as modus ponens, modus tollens, simplification, and disjunctive syllogism could have been discussed in more detail.
+Only confusing thing was how to show direct proof, contraposition, and contradiction on assessments, but I understand it now.
+I thought that the end part was the most confusing. The different types of proofs were sort of tricky, but when we learn more about them, I think I will get it more.
+Further explanation of the differences between an arbitrary and non arbitrary element when both have the same symbol, usually c, in the a proof
+Although I understand the method of using the pigeonhole principle, I really was confused on the example with the 10 of any 64 days fall on the same day of the week.","Only confusing thing was how to show direct proof, contraposition, and contradiction on assessments, but I understand it now.
+I still don't quite understand when to use each type of proof. 
+I thought that the end part was the most confusing. The different types of proofs were sort of tricky, but when we learn more about them, I think I will get it more.
+Everything was clear
+N/a"
+21,"I thought that the majority of the confusion came from when trying to transfer English sentences and wordage into prepositional logic. That is what mainly stumped me.
+Bitwise operations
+I struggled with applying Demorgans law to English sentences.
+Using logical propositions to think through and solve puzzles was kind of difficult to understand. Also it was a little hard to switch between the logical symbols for implication and English translations.
+I was a little confused on the bitwise operations and understanding how T/F and 0/1 relate. I know what it means I just have to work with it more to understand it better.","I struggled with applying Demorgans law to English sentences. 
+I thought sentence to propositional logic was confusing, especially the if and only if difference
+I thought that the majority of the confusion came from when trying to transfer English sentences and wordage into prepositional logic. That is what mainly stumped me.
+I was a little confused on the bitwise operations and understanding how T/F and 0/1 relate. I know what it means I just have to work with it more to understand it better.
+I definitely need more of an elaboration on translating but it will be covered next class"
+22,"Cardinality of infinite sets was the most interesting today.
+Learning how to create a bijection between the rationals and natural numbers
+I thought the relation with countable and not countable that we started talking about at the end of class was really interesting and can't wait to learn more about it.
+The all rational numbers are countable proof was interesting. The outside the box zig zag approach was nothing like anything we have covered in class so far.
+The summation and how they work algebraically peaked my interest.","The all rational numbers are countable proof was interesting. The outside the box zig zag approach was nothing like anything we have covered in class so far.
+The summation and how they work algebraically peaked my interest. 
+I'm interested to see how sequences / series will relate to mathematical induction later on
+The proof for the given special case summation
+Cardinality of infinite sets was the most interesting today."
+23,"minimum spanning tree
+Tracing through the algorithms
+prim algorithm run time
+I found it interesting how Kruskal Algorithm used a priority queue to solve the minimum spanning tree problem
+Kruskals algorithm seems interesting. Want to see more of it next lecture","I found it interesting how Kruskal Algorithm used a priority queue to solve the minimum spanning tree problem
+Kruskals algorithm seems interesting. Want to see more of it next lecture
+prim algorithm run time
+I thought the way you are able to find the lowest cost by such a simple algorithm is interesting
+Everything"
+24,"Everything was clear
+Nothing was confusing today.
+Nothing was too confusing
+I would like to go over DFS and BFS more
+this iterative traversal is very hard to wrap my head around maybe some more examples, and if you could provide typed Java code for iterative traversal instead of handwritten pseudocode that would make it more clear to understand","Everything was clear
+How the call stack works with traversing (it felt like we went through the material kind of fast)
+I would like to go over DFS and BFS more
+Nothing was confusing today.
+Nothing was too confusing"
+25,"Nothing
+None
+The heap sort was most confusing.
+The PQ sorting got confusing while tracing
+Why would you use Prim's algorithms versus Kruskal's algorithm to find a MST?","Keeping track of the rules of the heap sorting and heapify steps
+The PQ sorting got confusing while tracing
+The heap sort was most confusing.
+How to make the heap from the array was a bit confusing
+Heap sorting"
+26,"I thought the algorithm to construct the Prims was a bit confusing
+The order of using prim's algorithm
+What is the best edge? The one before the vertex or the one after?
+parent and best edge
+The method of calculating a low value and num value for a specific vertex of a graph was most confusing. Additionally, the calculation of the MST of a graph was also confusing.","I was confused about which vertex to check edges from in Prim's Algorithm
+prime algorithm to find mst
+I thought the algorithm to construct the Prims was a bit confusing
+The order of using prim's algorithm
+Still a missing something with articulation point algorithm. Hope to have a homework problem to work through"
+27,"Nothing
+Nothing
+when to use huffman vs LZW
+The general approach to the LZW compression algorithm today was most confusing.
+I'm not sure I understand decoding using LZW for the case when the codeword is not in the codebook","when to use huffman vs LZW
+i would like to review when to use LZW and when to use Huffman
+The general approach to the LZW compression algorithm today was most confusing.
+Nothing
+I'm not sure I understand decoding using LZW for the case when the codeword is not in the codebook"
+28,"ford fulkerson
+djikstras algorithm for shortest path explanation
+The bottleneck problem in general was most interesting.
+The data flow problem
+Residual graph","The bottleneck problem in general was most interesting.
+I found it interesting how BFS can help find any augmenting path
+The concept of using back edges
+ford fulkerson
+Residual graph"
+29,"The breakdown of the bubble sort implementation and its runtime
+I enjoyed discussing pin cracking, it was interesting to think aboutthesolution to how many unique pins could be created, especially whenthecode is limited by a certain factor such as the number of 0s
+The possible ways of solving the ThreeSum using different algorithms.
+I really found the big O logic to be intuitive and interesting when applied to sorting methods. 
+I thought it was pretty cool to relate brute force to looking treesofoutcomes to see how much work it can be if you have a lot ofpossibleoutcomes.","I really enjoyed going over three sum again as well as binary search and bubble sort. I found those example to be really helpful in understanding runtime calculations.
+The trees and pin cracking example
+The possible ways of solving the ThreeSum using different algorithms.
+I enjoyed going through the run time of each loop in the nested for loops. The best/worst run time concepts were easier to understand.
+bubble sort"
+30," I appreciated the showing and walkthrough of the code
+ I found the copy methods in BinaryNode class interesting 
+I enjoyed learning about the tree implementation.
+I found the different recursive methods most interesting.
+I found the comparison between the theory and the code very interesting and helpful. ","Going through code for binary tree
+binary tree code 
+How neatly a binary tree works
+The binary tree diagrams and learning how to combine trees. 
+Tree functions and implementation of code"
+31,"In order and post order code for bst search 
+Difference between pop and visit
+Symbol table ADT
+Was kinda confused on the stacks 
+The last slide regarding runtimes and differences","Post order traversal was a bit confusing. 
+The post order iterative method was a bit confusing
+Post order traversal
+Post order iterative
+Iterative post order traversal"
+32,"I found the differences between big O, little o, big omega, little omega, and theta to be interesting and a good refresher.
+asymptotic performance measurement
+I thought that our discussion on estimating runtime was interesting. Iliked that it was engaging and that we, the students, were able to thinkand give our input and ideas.
+I liked how we talked about the efficiency of an algorithm in comparison to its increase in rate of growth.
+I am interested in becoming engaged with this class. I look forward toasking questions, attending office hours, and generally becoming anactive participant.","I found the differences between big O, little o, big omega, little omega, and theta to be interesting and a good refresher. It is nice to know that each has a unique purpose, but for some cases more than one is applicable in the same way.
+I found the class structure very interesting. It appears to be very practical and useful.
+I enjoyed learning about big O notation. 
+I thought that our discussion on estimating runtime was interesting. I liked that it was engaging and that we, the students, were able to think and give our input and ideas.
+What I found most interesting was looking at the various graphs and comparing the run times (log graph, cubic, etc). "
+33,"Decreased add and search time with a RST
+the way the different trees store information
+ Abstract type tree
+The variation in runtimes
+Learning where to place values/ nodes according to binary code ","Filling binary search trees based on digits
+Decreased add and search time with a RST
+Decreased add and search time with a RST
+The different types of tries that exist
+DSTs vs RSTs"
+34,"I found the difference between adjacency lists and matrices interesting
+Adjacency lists
+Bfs traversal
+DFS
+Space vs time (list vs matrix)","DFS and BFS
+Using BFS and DFS to traverse graphs
+DFS and BFS traversal
+BFS and DFS have identical runtime
+n/a"
+35,"Amortized Time
+Prims algorithm array
+Articulations point algorithm
+Heap runtimes
+Heap PQ array format","Heap PQ array format
+Prims algorithm array 
+Nothing really
+Amortized Time
+None"
+36,"Applying backtracking for boggle
+Not confusing, but the most complicated part was remembering all the steps for recursion and back tracking
+How does pruning work? It would be easier to understand if we got a pseudocode example.
+the last top hat question
+When to use different ways of traversing a tree, like level by level or traversing it in a recursive way","Applying backtracking for boggle
+Nothing was confusing: all confusions were answered during the class discussion
+What would the run time be of a depth first algorithm?
+I got a little lost when you takes about the 8queen code implementation
+Why there were 15 decisions? "
+37,"Introduction to graphs
+Adjacency Matrix
+Shannon Entropy
+Graph information storage methods
+space and runtime for graphs","Graph information storage methods
+I found the graph applications very useful and interesting 
+Adjacency matrixes
+Shannon Entropy 
+Adjacency Matrix"
+38," Red black bst can be a full and complete bst
+Asymptotic runtimes
+Tree height can be minimized down to theta(log(n))
+I enjoyed learning about how to remove nodes
+I found the code walkthrough very interesting and helpful ","Red black bst
+Red black bst design
+Red black bst can be a full and complete bst
+Red black bst 
+Black and Red BST"
+39,"I also found learning about excel to be interesting.
+ I had never heard of problem statements so that was interesting to learn.
+How engineers look at data and decide on how to solve any issues they find from the data.
+The detailed projects that make up the class
+ I enjoyed meeting new people in my breakout rooms and seeing what they drew for the in class activity.","I found it really interesting how much data was collected from the bikes, and how much information you can track down from one excel file.
+Looking through the CoGo data on Excel and analyzing trends was very interesting.
+the categories of data that we discussed in class were very interesting
+I thought that the data collected in excel was interesting. I found that it was cool that the company was able to track and see how long each individual rider rode the bike.
+I found that seeing all the bike share data was most interesting."
+40," At first it was a little confusing to calculate the grams per mile of CO2. 
+The A13 environmental impact was somewhat confusing.
+ The most confusing part today was the difference of the slide on zoom and the slide in the brightspace
+Where to find the midterm feedback.
+The in class activity was confusing as to what we were supposed to calculate. ","I found nothing really confusing in this class. If anything I was slightly confused of where to find natural gas consumed by the indianapolis library.
+The in class activity was confusing bc the PowerPoint was cut off with certain numbers
+The most confusing part of today’s class was when the data from the bright space slide was different from the data in the presentation.
+I didn’t find anything confusing in today’s class.
+I really did not find anything confusing today in class! I understood the assignments and everything about climate change."
+41," on the quiz I put the y intercept because it did not specify but apparently that was incorrect. That is confusing to me.
+I found the whiteboard brainstorming in class activity to be a littleconfusing as I wasn't entirely sure of what to draw and what not to.
+We needed mor details on the assignment that is due next friday.
+ More information on the low fidelity prototype 
+The collaborative sketching attempt did not go well in class today.Iwish we were explained how to make a collaborative sketch inbreakoutrooms. ","I found the whiteboard brainstorming in class activity to be a little confusing as I wasn’t entirely sure of what to draw and what not to.
+I did not find anything confusing nor did I think that anything discussed needed any more details in today’s class.
+I thought class was straightforward, on the quiz I put the y intercept because it did not specify but apparently that was incorrect. That is confusing to me.
+The whiteboard thing was kind of confusing and not intuitive
+I don’t think anything was confusing today."
+42,"A clearer description for overflow/underflow bins in excel would have been useful.
+The explanation of the way to format histograms was confusing as it wasquick but didn't go over the more difficult stuff as well as I wouldhave hoped.
+I wish we saw the slide you were talking about that had al the due dates so we didn't have to find it later
+The underflow and overflow was confusing for the bins.
+The instructions for the in class assignment wasn't posted in the chat until near the end of the breakout room.","Some parts of the in class activity were confusing but it was mainly excel stuff
+It was confusing that we had done an assignment on what graph we should use for data analysis but we were taught it today in class.
+Nothing was confusing today. I have a good understanding of using histograms in excel.
+There was nothing confusing in the class today for me. I thought everything was explained very well.
+For the in class activity, it was confusing because nobody in my group had a picture of the slides and we didnt have a way to get to them, so we werent sure on what exactly we needed to do."
+43,"It was interesting to me how we listed out all these different prosandcons for each solution to figure out what would work best for us! 
+learning about the specific types of design prototyping strategies 
+I found it interesting how we went thought assignment 17 before we left class.
+I liked working on the project with my group, i liked brainstorming ideas for examples in nature
+The most interesting part today was looking into different biomimicry strategies we can use to solve the mobility issue","I found how useful looking at the pros and cons of different ideas is to getting a working and viable solution to be the most interesting part of today’s class.
+I found the evaluation of pros and cons in every day life interesting. I saw that recyclability was a pro and had not realized it before.
+I found interesting how we compared the different coffee machines. Also how pros and cons are used in engineering.
+It was interesting to me how we listed out all these different pros and cons for each solution to figure out what would work best for us!
+I found it interesting just how helpful and thorough a pros and cons list can be."
+44,"I thought learning about the hydroelectric power was interesting
+ Seeing the mechanics of how reservoirs work 
+Also, I feel like the time spent in breakout rooms during this lecture was much better than previous calls.
+I found the introduction of our next project very interesting today
+I also found the intro into how to cite and reference your sources to be very informative.","I thought learning about hydropower, the Taum Sauk reservoir, and a whole new project was interesting.
+I found the introduction of our next project very interesting today. Also, I feel like the time spent in breakout rooms during this lecture was much better than previous calls.
+I really like the taum Sauk project we are working on next and I think it will be very interesting because we get to model the system
+What I found most interesting in today’s class was how the whole process of hydropower works and how it creates power.
+The whole concept is very interesting, using data and working with a dam is much more interesting than the bike share project"
+45,"I knew about calculating my own carbon footprint but it never occurredtome to calculate something like my cars carbon footprint. 
+  What I found most interesting in class was the amount of everydaylifethat contributes to your personal carbon footprint. I took thesurveyfrom the link shown in class to determine my own. 
+It was interesting to see the different pictures of the arctic, based onthe effect climate change has had over the past few decades.
+  The discussion of design trade offs was very interesting tome.Providing examples as well as the importance of them was a topicthatvery much appealed to me.
+I found the in class activity very interesting as well as thebreakoutrooms today! My team and I had a great conversation with our PT,Adam,and we also got a lot of work done for our project. ","I found the way to find my car’s carbon emission very interesting.
+Something interesting in today’s class was the carbon footprint website, because it was cool to see the impact I have on the world.
+I found the website to calculate your personal carbon footprint interesting.
+I found it interesting how you can estimate your own carbon footprint.
+I found the entire lecture on the environment and our carbon footprint interesting."
+46,"I think the review of graphs was very interesting as it helped clarify the differences between them.
+Talking about how to create a histogram in excel because excel can be confusing to work with so this was really helpful.
+Learning more about my breakout group
+I was a little confused on assignment 7 so that was a good overview of what to do.
+I enjoyed analyzing the data for the CoGo bike share users to determine periods of low usage.","The most interesting thing about class today was learning about how to use histograms, and when the best times to use a histogram are (like what the best data for a histogram is).
+What I found most interesting from this class was how histograms can be used to analyze data.
+I thought the way to create histograms was most interesting because it’s cool to see how data shakes out.
+The part I found most interesting in today’s class was how well histograms display the distribution of data.
+I found the way histograms are able to fit data points into bins interesting."
+47,"Learning how to use the z score and putting it in practice 
+ It was interesting how we can use the bell curve graphs to talk about probability. 
+I found the skittles to be a fun and interesting example of how to use our skills to actually do something.
+ It was interesting to learn more about histograms and how they can be used
+ I enjoyed working with my group to complete the assignments because we got to work together and finish the work as a group","The most interesting part of today’s class was learning about the probability aspects of a histogram and everything about z scores and stuff.
+I found how to find the probability of skittles interesting and that we have assignment 5 due Wednesday very interesting!
+What I found interesting about today’s class was how easy probability can be calculated when looking at a normal histogram.
+I really enjoyed learning about Z scores and probability. I liked how you showed us how we can use probability to find interesting statistics.
+What was interesting in today’s class was learning some more about z values"
+48,"I think where to find our assignments, when they are due, what we have to do when is confusing.
+The in-class activity was slightly confusing as to what the instructions were and what was wanted in the assignment.
+The thing that I struggled with the most was just navigating Excel. I don't have a whole lot of experience with it, so it is going to take some practice to get the hang of it.
+I thought some of the break rooms were a bit short especially the one where we first got assigned to our teams and had the excel project to work on. Everything else moved nicely
+I was confused on how to make a pivot table and then convert it into a graph.","The time for the in class activity is very short. I would like the assignments due dates to be more easily accessible as this information is confusing.
+The Excel outlier/pivot table part of the class was sort of confusing  however it was cleared up once we did the breakout rooms
+I think where to find our assignments, when they are due, what we have to do when is confusing.
+Confused about what we needed to display in the excel document for the in class activity.
+Figuring out how to properly work excel is confusing."
+49,"I knew about calculating my own carbon footprint but it never occurredtome to calculate something like my cars carbon footprint. 
+  What I found most interesting in class was the amount of everydaylifethat contributes to your personal carbon footprint. I took thesurveyfrom the link shown in class to determine my own. 
+It was interesting to see the different pictures of the arctic, based onthe effect climate change has had over the past few decades.
+  The discussion of design trade offs was very interesting tome.Providing examples as well as the importance of them was a topicthatvery much appealed to me.
+I found the in class activity very interesting as well as thebreakoutrooms today! My team and I had a great conversation with our PT,Adam,and we also got a lot of work done for our project. ","I found the way to find my car’s carbon emission very interesting.
+Something interesting in today’s class was the carbon footprint website, because it was cool to see the impact I have on the world.
+I found the website to calculate your personal carbon footprint interesting.
+I found it interesting how you can estimate your own carbon footprint.
+I found the entire lecture on the environment and our carbon footprint interesting."
+50,"I found it interesting how effective CAD modeling can be for startingthe prototyping phase, I also found it awesome how many services Purduehas to offer to aid in the prototyping process.
+The act of prototyping is interesting because we can test our ideas.
+I found the wholistic approach of the design project very interesting and am very excited to move forward with it 
+I loved the breakout rooms today and our team got a lot of workdone,especially narrowing down our six ideas to the top three. Also,weclarified our questions with Jeff Hall, who was extremely helpful!!Weare excited to begin the next milestone. 
+The thing that was the most interesting was working with my peers to generate ideas and solutions","I found the brainstorming aspect of the class the most interesting because my team was flowing and the ideas were getting somewhere. The talk about prototyping was interesting and got me excited to work on the assignment.
+Something interesting was learning about prototypes and how to make them, including the 3D printing lab that Purdue has.
+The interesting part of class was the use of CAD to prototype.
+I found creating the prototypes with my team interesting.
+I think it was interesting to come up with different ways to test the prototypes."
+51,"I liked the discussion on the importance of problem scoping and thedifferences between novice and professional engineers. Particularlyasking questions and research.
+The breakout room was very fun and informative! We met Jeff Halltoday,and he was extremely helpful. We love working in a team andwe'reexcited for the upcoming project. 
+What I found most interesting in today's class was how a client orenduser was a stakeholder always but a stakeholder could be a client orenduser, but is not necessarily always one. 
+ The start of a new projects is always interesting I feel that seeinghowa project could be integrated so close to me is one of the mostexcitingthings about being an engineer 
+What I found most interesting about today's class was theanalyticalskills that are required to design your own solution to aproblem. ","The design problem was quite interesting.
+The most interesting part of today’s class was how engineers work effectively with problem scoping to properly define a project.
+I think the idea behind the design project is interesting because it gives us important experience problem scoping as opposed to looking at specific data and saying “this needs to change”.
+I found the research during problem scoping interesting.
+What I found most interesting about today’s class was the analytical skills that are required to design your own solution to a problem."
+52,"I think the review of graphs was very interesting as it helped clarify the differences between them.
+Talking about how to create a histogram in excel because excel can be confusing to work with so this was really helpful.
+Learning more about my breakout group
+I was a little confused on assignment 7 so that was a good overview of what to do.
+I enjoyed analyzing the data for the CoGo bike share users to determine periods of low usage.","The most interesting thing about class today was learning about how to use histograms, and when the best times to use a histogram are (like what the best data for a histogram is).
+What I found most interesting from this class was how histograms can be used to analyze data.
+I thought the way to create histograms was most interesting because it’s cool to see how data shakes out.
+The part I found most interesting in today’s class was how well histograms display the distribution of data.
+I found the way histograms are able to fit data points into bins interesting."
+53,"I really like excel and the teaming process. I really like my team
+The most interesting part of class was getting to meet my team and develop a plan to work on future assignments. It was fun to finally have a group that i can work together with.
+I liked doing the calculations and the kahoot
+I found the payback equation to be quite interesting, since we are combining a bit of both engineering and economics together.
+I liked the kahoot, it helped do team building. I liked learning that equation about payback and using excel to do different things with that equation. Also applying the equation to something realistic was cool","I found it interesting to play the kahoot about excel
+I thought that meeting my new team was really interesting.
+I liked the kahoot, it helped do team building. I liked learning that equation about payback and using excel to do different things with that equation. Also applying the equation to something realistic was cool
+I found the payback equation to be quite interesting, since we are combining a bit of both engineering and economics together.
+Getting into our groups and meeting the people we will be working with for the year was interesting."
+54,"Estimated time on each quiz question.
+Specific pets of assignment to go into more detail
+Specific pets of assignment to go into more detail
+I felt like the quiz was a lot for a hour because you had to rush though some parts of the assignment.
+I was slightly confused about how to find the carbon emission data reliably.","I felt like the quiz was a lot for a hour because you had to rush though some parts of the assignment.
+The part about the monthly solar electricity production for assignment #5 was confusing at first, but one of the teaching assistants helped clarify the problem for me.
+I was slightly confused about how to find the carbon emission data reliably.
+N/A
+Nothing was confusing to me in today's class."
+55,"I liked the work time that was provided for our project
+I found the class improvement extra credit activity interesting
+looking at the different types of inputs and outputs for the arduninos. I did not know they could measure moisture and other things like that
+I was interested by learning more about idea generation.
+The extra credit opportunities that are available this semester.","I found the class improvement extra credit activity interesting
+Final design project
+The quiz problems were interesting.
+I was interested by learning more about idea generation.
+looking at the different types of inputs and outputs for the arduninos. I did not know they could measure moisture and other things like that"
+56,"The intended structure of team meetings could have been a welcome addition.
+Some of the information regarding economics was confusing. There was a lot of formulas, numbers, equations and other things mentioned in a very short time period.
+At first, the in class excel activity was somewhat confusing, but as I thought more about the problem, I was able to figure it out.
+The class slides were not posted on Brightspace so it was sometimes difficult to follow along.
+One thing that was confusing in class today was that I had a hard time calculating certain values on the in-class excel spreadsheet. This was especially the case for the 3-month payback period section. However, once the profesor went over the answers I was able to understand the content better. I tend to have a hard time doing the problems by myself, but once the professor goes over them I have a better understanding of the material.","At first, the in class excel activity was somewhat confusing, but as I thought more about the problem, I was able to figure it out.
+One thing that was confusing in class today was that I had a hard time calculating certain values on the in-class excel spreadsheet. This was especially the case for the 3-month payback period section. However, once the profesor went over the answers I was able to understand the content better. I tend to have a hard time doing the problems by myself, but once the professor goes over them I have a better understanding of the material.
+Some of the excel work was mildly confusing but after some things were clarified it became easy.
+Nothing was confusing
+Some of the information regarding economics was confusing. There was a lot of formulas, numbers, equations and other things mentioned in a very short time period."
+57,"In the 2B in class activity, it was a little confusing to describe the criteria and the constraints. This is because I had a hard time figuring out what the difference between these two things is, but I believe that I understand it now. It was also difficult that they are not completely set in stone yet, but I think it will be easier when we have more information next week.
+I was confused about the source requirements for the problem statement
+The exact purpose and requirements of the ICA felt a little unclear.
+I am still slightly confused on the difference between constraints and criteria, I would like to go deeper into this area.
+The people who are classified as stakeholders could be clarified a bit more.","I was confused about how we were supposed to format our answers in the in class activity.
+In the 2B in class activity, it was a little confusing to describe the criteria and the constraints. This is because I had a hard time figuring out what the difference between these two things is, but I believe that I understand it now. It was also difficult that they are not completely set in stone yet, but I think it will be easier when we have more information next week.
+The people who are classified as stakeholders could be clarified a bit more.
+Nothing, everything was informative and answered my questions.
+The questions were kind of ambiguous"
+58,"I found it interesting that we treat the noisy graph and the smooth graphs differently
+I really enjoyed working with my team on milestone 1. I enjoyed being able to actually start evaluating formulas for our project
+I thought it was very interesting how there are so many different approaches someone can take to get to the correct solution for any of the parameters we must find.
+It was very interesting to make evidence based decisions. It was challenging to select certain methods, but I felt it was fun!
+I found the equation created was interesting in how it related V0, Vmax, and Km","I thought the data analysis as a whole was cool and it is interesting seeing the different ways to get the values we needed
+I found it interesting that we treat the noisy graph and the smooth graphs differently
+I found the idea of non linear regression to be very interesting. It is cool to find a way to model data through matlab.
+I found learning how to understand the data better interesting, like how the product columns were different lengths and how some replicate test results were very different.
+I found the equation created was interesting in how it related V0, Vmax, and Km"
+59,"The coding part of the project was a little difficult/confusing. We asked a TA for help and we were able to figure it out.
+Something that was confusing were the directions of M3. I think the professor sped through the instructions. If more detail what the assignment is, would be very helpful.
+Details about concept quiz three
+would have loved more clarification regarding altering the M2 algorithm to not include duplicate data for m3
+What was confusing was why we are being given a whole new data set because it seems like everything we did in M2 was kinda pointless","The entire m3 process was a bit confusing, as to what needed to be in the M3 new function for the different steps and what to calculate in matlab
+The coding part of the project was a little difficult/confusing. We asked a TA for help and we were able to figure it out.
+What was confusing was why we are being given a whole new data set because it seems like everything we did in M2 was kinda pointless
+I found the instructions for milestone 3 a little confusing.
+Something that was confusing were the directions of M3. I think the professor sped through the instructions. If more detail what the assignment is, would be very helpful."
+60,"What was expected for the header of the resume was a little unclear. The video did not go into as much detail as I would have liked, but for the most part, the resume insert felt a little out of place.
+Details on the technical brief for M4
+M4 reflections
+I was confused today about the extra credit opportunity that was brought up at the end of class, and what the requirements to take it were. I was confused if we had to do all of the post lecture surveys in order to do this one.
+We were a little confused on how to improve our algorithms for M4, compared to what we had for M3, because every time we tried to improve one aspect, the other numbers would become less accurate.","Nothing was confusing or needed additional details. I understood and followed the resume builder for the in class activity and filled out the form
+The improvements on our M2/M3 code were somewhat clear but still needed some clarification. The video was also a little unclear.
+Needed details on if graphs were needed for M4
+How to decide what to recommend to the client on M4 as there was no measure of anything to help decide that 
+M4 reflections "
+61,"I found it interesting how for M4 we were to fill out a resume and write a technical brief. It makes sense though as we were compiling data for our client thoguh
+Studio time to work with group
+How similar our M3 and M4 Algorithms were
+I found interesting that we need to submit another CATME because we recently filled one out and we get to do that again.
+it was interesting that this was our last class and that the semester is basically over","I found it interesting how for M4 we were to fill out a resume and write a technical brief. It makes sense though as we were compiling data for our client thoguh
+The fact that we get the entire of next week off is something I found most interesting In today's class 
+it was interesting that this was our last class and that the semester is basically over
+I found interesting that we need to submit another CATME because we recently filled one out and we get to do that again. 
+How similar our M3 and M4 Algorithms were"
+62,"In class activity
+It was interesting to learn about user defined functions
+I found learning about the practice questions very interesting. Im very happy that it exists
+It was good to know what the material / questions may be like for Concept Quiz #1
+UDF in MATLAB","I found learning about the practice questions very interesting. Im very happy that it exists
+I found the in class activity the most interesting part of class.
+It was interesting to learn about user defined functions
+i mean functions are interesting but just very confusing
+While confusing, functions are still very interesting"
+63,"Array indexing
+Functions
+Concatenation was covered in the videos, but I could have used a quick review as it is a new way of manipulation of matrix for me.
+Assignment 5
+I was confused about the difference between writing things in the script and writing things in the command section","Nothing was confusing!
+Understanding how to use script
+I was confused about the difference between writing things in the script and writing things in the command section
+Assignment 5
+I understood todays material a lot better than last class."
+64,"A better overview of the upcoming assignments (through A10)
+Maybe some extra review about the upcoming test would be nice and helpful. Everything else was clear and understandable
+Is the Concept quiz one large question or multiple smaller questions?
+i am still a bit confused on the indexing with for loops in matlab
+The way that while and for loops are calculated","I was kind of confused about for loops from the pre class videos
+i am still a bit confused on the indexing with for loops in matlab
+Today was actually way better than normal
+Nothing was confusing.
+I would like to know more about what the exam will look like (format and # of questions)."
+65,"I liked meeting my teammates!
+I like of statements and logical reasoning
+Finally using selection structures to solve problems
+MATLAB was really interesting because it can very useful for other classes
+I found the matlab code when where we calculated the metal phase was interesting use of elseif.","I enjoyed talking to my teammates and getting started on planning team work times etc
+Meeting my team
+I found interesting meeting my new teammates.
+Meeting team members
+I liked meeting my teammates!"
+66,"How to format some of the graphing stuff could have used more detailed information, as the homework was a long video and how all of that information will be used by this class might have been helpful.
+how to use readmatrix to truncate data. array indexing does not work
+The only thing that was confusing was the use of the readmatrix command in the first question of our class activity.
+I was confused on problem 2 for A06. I am not sure how to see which values in a matrix are greater than a certain number.
+the syntax of plotting is still a little confusing. I am confused with the A06 instructions","The only thing that was confusing was the use of the readmatrix command in the first question of our class activity.
+the syntax of plotting is still a little confusing.
+nothing was confusing. i think the in class assignment and information was delivered clearly
+Plotting in matlab
+how to distinguish between the different figures in matlab and putting clc, clear, and clf in the code"
+67,"Today I found it most interesting to look at existing patents that are out there around the world. I found a couple patents on inventions that I never thought of that would be very helpful.
+I found a lot of the patents that I viewed to be very interesting.
+I thought some of the patents I saw were interesting. One was for a sword belt.
+Seeing the ideas we came up with for helping the walking disabled move around campus was interesting. It was cool to see what each of us would think of when presented with the different sub functions.
+Different ways in generating ideas.","Seeing the ideas we came up with for helping the walking disabled move around campus was interesting. It was cool to see what each of us would think of when presented with the different sub functions.
+I thought some of the patents I saw were interesting. One was for a sword belt.
+I found a lot of the patents that I viewed to be very interesting.
+I found nothing interesting in todays class
+Studio time"
+68,"I liked the 3D printing aspect that she went over.
+Introduction of 3D printing for Design Project
+Quiz
+I found it interesting that finding the surface area of the human body works by finding the surface area of a rectangular prism.
+I found that modeling of the human body using different shapes pretty interesting.","the quiz. regression line, modeling with 1 and 2 d shapes.
+I found that modeling of the human body using different shapes pretty interesting.
+The use of doing thought experiments
+3D Printing Club
+3d printing a prototype"
+69,"Using WDM to make decisions
+I was interested in the weighted decision matrix in helping to organize design ideas
+I found it interesting to see other prototypes for a problen we weren't addressing.
+I liked the prototypes on the quiz.
+The concept of trying to create a water storage solution for hikers was interesting to me. I enjoy hiking and trying to find a solution to water storage was pretty cool.","I liked the prototypes on the quiz.
+Using WDM to make decisions
+The concept of trying to create a water storage solution for hikers was interesting to me. I enjoy hiking and trying to find a solution to water storage was pretty cool.
+nothing
+I was interested in the weighted decision matrix in helping to organize design ideas"
+70,"presentation
+Presentation
+presentation
+Studio time
+Working with my team to complete the studio time portion was the most interesting part.","How to present
+Slideshow
+Studio time
+Presentation
+presentation"
+71,"In class assignment
+ICA
+How to give good feedback
+how to turn in the feedback to the course discussion.
+Making us all do A18 individually and then having us combine our work on one document was kind of confusing.","Making us all do A18 individually and then having us combine our work on one document was kind of confusing.
+None
+I was confused on how questions differ from challenges.
+what question to ask the other group
+How to give good feedback"
+72,"I found nothing confusing about todays class.
+Nothing was confusing, Professor Wible explained what was expected of us in terms of our iteration I and pro-con list. One of the TAs looked at our project and gave us feedback, which was great. It would be nice to know how many pros and cons for each possible design are needed.
+In Class Activity
+Functional decomposition
+coming up with different ideas for A15.","I found nothing confusing about todays class.
+coming up with different ideas for A15.
+None
+Functional decomposition
+ica"
+73,"I found formatting the histogram to be the most interesting. It took me a long time to understand how to due to me having a Mac, but a TA helped me out and it was satisfying to figure that out.
+I found how to format histograms useful.
+I found it interesting how easy it was to create a histogram. It was almost easier than making a line chart despite being more complicated.
+Making histograms
+I found it interesting when my team collaborated to continue our project during class time","It was interesting to see how fast histograms can help in determining useful statistics like probablility.
+I found how to format histograms useful.
+I found it interesting how easy it was to create a histogram. It was almost easier than making a line chart despite being more complicated.
+I found it interesting when my team collaborated to continue our project during class time
+Making histograms"
+74,"the in class assignment.
+Quiz
+weighted decision matrix
+WDMs and how to use the ROUND function
+The reflection portion of the second iteration was a little confusing to me. Were we supposed to write a separate paragraph under the chart, or were we supposed to make that part clear in the table?","In class quiz 6 information
+The reflection portion of the second iteration was a little confusing to me. Were we supposed to write a separate paragraph under the chart, or were we supposed to make that part clear in the table?
+WDMs and how to use the ROUND function
+question 3 ica
+Nothing"
+75,"I found talking with the new team members in todays class interesting.
+probability and statistics was pretty interesting, learning about skewness and normal distribution
+I really enjoyed learning how to use histograms and their applications
+I enjoyed figuring out how to format the histogram for the in class activity
+To be honest, I had difficulty with the making histogram, however, it was interesting how it works","probability and statistics was pretty interesting, learning about skewness and normal distribution
+I enjoyed learning about histograms.
+I really enjoyed learning how to use histograms and their applications
+I enjoyed figuring out how to format the histogram for the in class activity
+To be honest, I had difficulty with the making histogram, however, it was interesting how it works"
+76,"I liked how I was able to complete most of assignment 6
+I found delegating they team tasks interesting
+I thought the new project we were working on was interesting to discuss with my team
+I found the delegation of team roles for assignment 7 interesting.
+we started working on the bike project and the idea seemed pretty interesting","Working on studio time
+Nothing was particularly interesting, but the work time was helpful.
+I found the delegation of team roles for assignment 7 interesting.
+we started working on the bike project and the idea seemed pretty interesting
+I thought the new project we were working on was interesting to discuss with my team"
+77,"I liked being able to talk with my group while doing the inventory
+I think the Taum Sauk project will be interesting.
+The breadboard content, I like electrical stuff because I am in ece
+Using the TI Boards was interesting and trying to put them together.
+the circuit board was pretty interesting, i like that they lent us one kit","I think the Taum Sauk project will be interesting.
+I found taking the inventory of the kit interesting in todays class.
+I found the usage of TI kit interesting
+the circuit board was pretty interesting, i like that they lent us one kit
+the circuit board was pretty interesting, i like that they lent us one kit "
+78,"What I found most interesting in class today was learning how to express numerical and categorical data visually in different types of graphs.
+Tsiolkovsky rocket equation was pretty interesting
+Learning Excel is very interesting. I used to learn Excel when I was in middle school, but I completely forget all of it. I would like to learn and remember it for the rest of my life. The graphs are also, but I think gathering and formatting datas are more important and interesting. It is like coding.
+The most interesting part of todays class was the in class activity where we got to make scattered charts to represent data. I learned a lot and it was fun changing how a chart could look.
+I found the use of excel in actually calculating a value that would be meaningful to a real life situation interesting.","What I found most interesting in class today was learning how to express numerical and categorical data visually in different types of graphs.
+The most interesting part of todays class was the in class activity where we got to make scattered charts to represent data. I learned a lot and it was fun changing how a chart could look.
+I thought the graph stuff was most interesting and most engaging
+The table creation in excel was the most interesting part of the lecture, I have never used excel before so learning the format was fun
+What I found to be the most interesting was the categorical data and numerical data.  This difference between these two will be paramount to succeeding in this class."
+79,"The in class activity was not clear, it is always a confusing thing when one has to read the slides to understand the problem. I would appreciate more elaboration on the problem.
+the structure of how A06 was setup was confusing. the assignment needed clearer instructions on what the Learning objectives were I had to read at the very begginging to use solid lines where it could have been located by the assignment instructions
+The figure function was confusing to figure out because I don't believe it was in the pre-class video. TA was helpful though.
+fprintf command rules were a little confusing.
+Using the print function in a way that incorporates variables into the final product of the scripts that we have been writing.","fprintf command rules were a little confusing.
+the structure of how A06 was setup was confusing. the assignment needed clearer instructions on what the
+Nothing I found in todays lecture was confusing. My professor explained the Matlab commands in clear and precise detail.
+The figure function was confusing to figure out because I don't believe it was in the pre-class video. TA was helpful though.
+I think that the information regarding plotting specific values in a specific matrix was a little confusing."
+80,"I found the in class activity video interesting since it showed context of the problem we are trying to solve. I enjoyed looking at the experiment where the person has different types of enzymes and how it would break down the substrates or stains differently.
+I thought the detergent enzyme video was interesting.
+I thought it was very interesting that we finally get to work with our team on the final project. Anylyzing enzymes is fun to me becuase it is something that I enjoy learning about and working with.
+i liked that we started work on the project
+I thought all of the different approaches my teammates generated to solve one problem was interesting. We all had completely different but viable approaches!","I thought it was very interesting that we finally get to work with our team on the final project. Anylyzing enzymes is fun to me becuase it is something that I enjoy learning about and working with.
+I thought the detergent enzyme video was interesting.
+Today, I thought that the in class activity for the project was very interesting because I think that the enzyme graphing is very entertaining and interesting !
+I found it interesting that there is such a step by step process of analyzing enzymes.
+I found the assignments being due at the end of next class pretty interesting since this never happens."
+81,"How a main function has no outputs or inputs
+I needed more details on how you can call sub functions using the main function
+Just the idea of different ways you can implement a sub function inside a main function.
+I was confused about using sub functions in main functions, but gradually I got it and was able to do the work.
+One thing I found confusing was how to call in the user defined functions that we created.","I would have liked to see some examples of how user defined functions are used with main.
+I needed more details on how you can call sub functions using the main function
+Why there were no variables in the workspace when the main function was used to call other sub functions to perform the necessary calculations.
+I was confused about using sub functions in main functions, but gradually I got it and was able to do the work.
+I think putting more attention on how to call sub-functions would be helpful, are multiple main functions allowed to be used?"
+82,"I was a little bit confused on how to make a loop that find the initial velocities of all the data and not just one. I didnt really want to index the data over 100 times.
+I thought the instructions for finding Vi,o were confusing and could be a little clearer.
+I thought that M1b pseudo code was confusing.
+One thing that was confusing was trying to figure out how noisy data could be dealt with. When looking through the data I was slightly confused on where the 5 original tests where and which ones where the replicates.
+I found it confusing why we will need to linearize data.","I found it confusing why we will need to linearize data.
+One thing that was confusing was trying to figure out how noisy data could be dealt with. When looking through the data I was slightly confused on where the 5 original tests where and which ones where the replicates.
+Nothing was confusing
+I thought the instructions for finding Vi,o were confusing and could be a little clearer.
+I thought that M1b pseudo code was confusing."
+83,"In class today I was confused by a lot of the steps to getting my practice problems set up. It was difficult for me to follow, especially because our teacher was on zoom the entire time and unable to help any of the students.
+The process of accessing the assignments was difficult to understand. Specifically, what to do after downloading the file is what confused me most.
+Being able to access and use the p file was confusing because you had to download it and then place it in the MATLAB folder which was not explained clearly.
+I had a little but of confusion when using MatLab to open up a new assignment. I also had a little but of of confusion when entering in certain problems for MatLab to solve.
+I was confused about the functions that seems very similar on MATLAB. For example, for logorithm functions, I had to use log10(x) to use it as a normal log.","Being able to access and use the p file was confusing because you had to download it and then place it in the MATLAB folder which was not explained clearly.
+I was a little confused with downloading files from the matlab drive and accessing the problem sets. After a while I got used to the program
+I was confused about the functions that seems very similar on MATLAB. For example, for logorithm functions, I had to use log10(x) to use it as a normal log.
+I found the it confusing to differentiate between Ln and Log10. Log refers to log10 in mathematical notation, but refers to natural log in MATLAB. Hence, there can be some confusion on what base Log refers to, which can be determined by remembering if it is in mathematical notation or in MATLAB.
+I thought it could have been more clear on what was going on in the background for MATLAB to call files. It would have been helpful to have organization tips for how to sort MATLAB files so they are easier to use later."
+84,"i was confused by how to figure out the function to make an array of all one number
+A few more details and examples of the debugging and array indexing would have cleared up a few minor questions, but overall pretty clear.
+The last two sections of the slides felt a little rushed & I would have preferred to have a little more time spent on them. The in class activity was also a bit confusing at first but I managed to figure it out eventually. I liked theblong studio time we got so that I could start assignment A05 but I wish that we didn't have to submit event thing through gradescope or that a link is added to Brightspace on an assignment by assignment basis to access gradescope easier.
+I was confused about the types of errors. I was also having troubles with replacing and copying arrays at the first time, but I figured out what I got wrong larer and got through it.
+The block comments were confusing because details on when and where were not given.","i was confused by how to figure out the function to make an array of all one number
+I felt confused about how to upload my scripts to Brightspace for future Matlab assignments. It would be helpful to do more of an overview as a class.
+This class was clear and not at all confusing.
+I was confused about finding certain digits in arrays.
+I was confused over opening and the deign of A05, after further instruction and help from the ta, I figured it out."
+85,"The idea of creating multiple figures in one plot was pretty confusing to me. I was also confused about the components that I need to put in my plots.
+I was confused about where to find the in class activity
+I think that the array indexing is still confusing. I do not understand how to select values from only a row or a column
+assignment A06
+It was confusing partly because I was on zoom so flipping back and forth between my brightpsace and zoom and Matlab is tricky.","The idea of creating multiple figures in one plot was pretty confusing to me. I was also confused about the components that I need to put in my plots.
+I think that the array indexing is still confusing. I do not understand how to select values from only a row or a column
+I was confused about where to find the in class activity.
+I was confused about where to find the in class activity.
+It was confusing to tell what to do when Professor Wible is over zoom."
+86,"I thought all of the different graphing options for assignment 6 were interesting. There are so many colors and shapes that you can choose
+i thought it was interesting how you can import data files into matlab using a simple function and it registers all of the numerical data in the chart.
+I found A06 most interesting.
+Finishing question 1 and question 3, I enjoyed exploring new commands.
+I liked the information about how to make excel into matrixes","The way that using readmatrix could bring the datas in MATLAB seemed pretty interesting to me.
+I found most interesting in class was importing data from a spreadsheet which can be handy in the real world. In addition we can plot those data on a graph in matlab and customize it to our liking.
+i thought it was interesting how you can import data files into matlab using a simple function and it registers all of the numerical data in the chart. 
+what I found most interesting was how to import data after I remembered that it had to be in the MATLAB drive to be imported properly. I still think it's cool that such simple looking commands cab do so much with data.
+Creating the figures and graphs through Matlab is very interesting especially since you can change whether the graph has markers or a solid line or different variations and colors."
+87,"i thought it was interesting how you can make a selection structure using a while loop to process data.
+I thought some of the randomizing programs that could be done with while loops were cool.
+I thought that his examples were very interesting. They were simple enough to easily understand but complex enough to properly demonstrate the concept of the lecture.
+Since the lecture was cancelled I worked on A07 with my group and that was very interesting.
+Learning how to use while loops and when to use for loops instead is interesting.","Learning how to use while loops and when to use for loops instead is interesting. 
+while loops are interesting because they require more than just a condition but also a way for it to end.
+I thought some of the randomizing programs that could be done with while loops were cool.
+I thought that his examples were very interesting. They were simple enough to easily understand but complex enough to properly demonstrate the concept of the lecture.
+I thought some of the randomizing programs that could be done with while loops were cool."
+88,"I liked the studio time
+The video at the start of class
+Getting feedback on our video from another group.
+Final Design Project
+Powering solutions","I found the peer feedback interesting.
+The design review questions were interesting.
+I found the peer review activity interesting
+I found the peer review activity interesting
+I found the peer review activity interesting"
+89,"It was interesting starting the final project
+I found the working on Taum Sauk interesting
+Introduction of the design project
+Learning about past student final projects
+The problem statement","Final Project sounds interesting
+It was interesting starting the final project
+Seeing the video example of project 4 was interesting and it gave me ideas about what my group will do. 
+Seeing the video example of project 4 was interesting and it gave me ideas about what my group will do. 
+Seeing the video example of project 4 was interesting and it gave me ideas about what my group will do."
+90,"Final Design Project
+Applying what we learned as engineers to a realistic project related to our university
+Final Presentations
+Discussing the extra credit opportunities
+I found it interesting learning more about the wdm.","Final Design Project
+I found it interesting learning more about the wdm.
+nothing
+Discussing the extra credit opportunities
+Discussing the extra credit opportunities"
+91,"Listening to how we should approach the ICA problem
+nothing as of now, but perhaps finding out our team members learning about problem statements
+I enjoyed meeting my group for the solar panel project. I look forward to working with them throughout the project.
+Thinking about the questions during the in class activity for assignment 4 was interesting. I enjoyed questioning.
+how we get to participate and design something that can solve a real world problem","I enjoyed meeting my group for the solar panel project.  I look forward to working with them throughout the project.
+The solar project and meeting new people
+I found meeting the new team members interesting in todays class.
+I found meeting the new team members interesting in todays class.
+Meeting a new team was interesting "
+92,"I thought it was interesting that you can calculate the sse sst and r squared values all by hand. When we figured it out we then compared it to the actual computer found values. Mine were quite accurate
+I found finding the SSE and SST values to be interesting because this is correlated with the r squared value which is normally calculated by excel, but we were able to calculate it.
+I found it interesting how linear regression can be used on a data set and the fact that about 6 different values was pulled just from the line of best fit equation was cool.
+I found the SSE and SST calculations very interesting. I also found the slides to be very helpful and the activity helped solidify the subject.
+I found making graphs fun and interesting. Trend lines and r^2 values are aesthetically pleasing to me.","I found finding the SSE and SST values to be interesting because this is correlated with the r squared value which is normally calculated by excel, but we were able to calculate it.
+I found it it interesting that we can do linear regression in matlab and that there a pre built functions.
+I thought it was most interesting seeing how to plot a line of best fit in matlab versus on excel. It was cool to learn.
+I found it interesting that we can calculate the r squared value of a function exactly like excel does it.
+What was most interesting was the fact that there are commands in excel and matlab that do these calculations for us."
+93,"Calling functions
+I was confused about functions. I was wondering if the file name has to be named the same thing as the the function name?
+I don't feel the pre class videos or ica prepare us for the next assignment
+The initial structure of a UDF was a little difficult to understand, but once I got the hang of it, they weren't too bad.
+The explanation for MatLab on functions was good. I understood the concept now and was able to successfully implement it in the in class activity.","I was confused about functions. I was wondering if the file name has to be named the same thing as the the function name?
+The explanation for MatLab on functions was good. I understood the concept now and was able to successfully implement it in the in class activity.
+The initial structure of a UDF was a little difficult to understand, but once I got the hang of it, they weren't too bad.
+The in class activity was somehow confusing because I need to create another file for it to submit. Overall, the lecture was clear and understandable.
+Calling functions"
+94,"Actually today class was really easy I was not confused about any of the topics
+The instructions on the in class activity were not clear on what they wanted.
+I would like to get more advice about how to do the project. Our professor said our method had to work for lots of different graphs and it would be nice to know if these graphs will all be the same function type.
+I was confused about finding the maximum velocity value for milestone 1.
+Algorithm for Vi needed a little more explanation as the videos alone were not very helpful","I think the in class activity needed more details, it was quite confusing even with the video we had. Additionally, the directions in the document were not clear at all and at time my team and I had to infer on what the document was asking.
+I was a little confused on how to start the class activity .
+I was a little confused on how to start the class activity .
+Actually today class was really easy I was not confused about any of the topics
+I would like to get more advice about how to do the project. Our professor said our method had to work for lots of different graphs and it would be nice to know if these graphs will all be the same function type."
+95,"It was interesting to learn about pseudocode today in class.
+Use of pseudo code to understand how to convert algorithm to executable lines of code
+I found the pseudo coding interesting because it allowed me to plan out my thoughts better.
+I really enjoyed learning about our homework assignment because it was useful to know what we needed to get done.
+I found the team time and starting to work on M2 important and being to do the code of cooperation.","I found the i class activity interesting bc it helped me visualize my code.
+I found the pseudo coding interesting because it allowed me to plan out my thoughts better.
+Use of pseudo code to understand how to convert algorithm to executable lines of code
+I found the team time and starting to work on M2 important and being to do the code of cooperation.
+i thought it was interesting how you can smooth out noisy data using functions on matlab"
+96,"I found it interesting all the different ways this project could be carried out.
+I was interested in working on our team project and achieving goals towards M2
+I found the video on how to minimize the noise in the data interesting.
+Figured out how to set up the UDF and begin coding to solve Km and Vmax
+I was interested in finding a solution to help update my code in the for loop","I found the video on how to minimize the noise in the data interesting.
+I was interested in working on our team project and achieving goals towards M2
+I found it interesting all the different ways this project could be carried out.
+Figured out how to set up the UDF and begin coding to solve Km and Vmax
+The new approaches on linearizing data."
+97,"I was confused on how to add gridlines on to the graph in excel
+I was a little confused on step 4 if the coding in matlab for non linear regression.
+I think that we went to fast on the mat lab plotting system. We went a bit fast and it was to much to fast for me at least.
+The difference between the different log functions was given the detail it needed.
+I was a little confused on graphing the linearized data because I was using the wrong variables at first","I was a little confused on step 4 if the coding in matlab for non linear regression.
+I was confused on the steps needed to linearize the data and choose the correct function.
+I was confused on how to add gridlines on to the graph in excel
+I was a little confused on graphing the linearized data because I was using the wrong variables at first
+I was confused about where part 4 was."
+98,"It was interesting to see how to code nonlinear regression in matlab because matlab shows more calculations that go into the regression than excel.
+I enjoyed the mat lab portion of the liberalization and how it compares to the excel calculations.
+I found the use of excel to preform the same code as matlab interesting.
+Professor walk us through the class activity, which we can have a better understanding of how are we gonna do in our homework. I think for future class, professor can talk more about our homework, or use our homework as examples.
+I found the changing of axes interesting in todays class, because it can change the look of a graph so much.","I found the use of excel to preform the same code as matlab interesting.
+I found that the most interesting thing today was the use of excel in order to compute answer and linearize the data.
+It was interesting to see how to code nonlinear regression in matlab because matlab shows more calculations that go into the regression than excel.
+It was interesting to see how to code nonlinear regression in matlab because matlab shows more calculations that go into the regression than excel.
+I found interesting how we can create 4 subplots each with different axis and display them in the same figure"
+99,"The amount of ways to find a regression line.
+Using excel vs using matlab for linear regression was interesting. It was definitely refreshing to use excel and realizing that we have multiple tools to use.
+The most interesting part was calculating SSE, SST, and r squared value usung the Matlab.
+The in class activity was most interesting since it focused on things will be very useful for displaying data
+The studio time was beneficial.","The most interesting part was calculating SSE, SST, and r squared value usung the Matlab.
+Applying statistical regression values to Matlab syntax was interesting.
+Using excel vs using matlab for linear regression was interesting. It was definitely refreshing to use excel and realizing that we have multiple tools to use.
+I found the slides in how to use linear regression in Matlab interesting and very useful to the in class activity and assignment twelve.
+I thought the way we used built in functions to find linear models was interesting"
+100,"The ways to find the km and Vmax were interesting since they all have different advantages and disadvantages.
+The use of user defined functions in order to find the values of V0 and Km
+Working with my teammates to make looping processes to average out the v0 values for tests and test repeats was confusing but interesting.
+I found out that taking a very small percentage of data to calculate v0 actually creates a worst graph like .5%.
+v0, Vmax, and Km.","It was interesting to discuss how to deal with errors when we were calculating parameters: v0, Vmax, and Km.
+The ways to find the km and Vmax were interesting since they all have different advantages and disadvantages.
+Working with my teammates to make looping processes to average out the v0 values for tests and test repeats was confusing but interesting.
+I found out that taking a very small percentage of data to calculate v0 actually creates a worst graph like .5%.
+The use of user defined functions in order to find the values of V0 and Km"
+101,"The instructions for M3 were very confusing and could have been more clear about when the reference values were used and when the calculated values were used.
+I think that the instructions for what to do with the PGO data in the M3 part of the project were unclear.
+I thought that a lot of the instructions were unclear for M3. Part 0 asks for strengths and limitations of our algorithm, and then asks us how we will utilize the feedback we received to change our algorithm. However, we did not get any feedback on our algorithm, and we did not lose any points on our algorithm. Also, we were addressed by a TA that said that we needed to use the given V0 values for the new enzyme to calculate Vmax and Km, not our algorithm calculated V0 values. This is not inherently obvious, and is a very important distinction to make. The instructions need to be clearer.
+My group and I were very confused on how to calculate the SSE for both tables in M3.
+The different plots that we need to submit to m3 in different parts of the milestone we're not well explained","The milestone 3 was confusing because our team was struggling whether to compare enzymes from milestone 2 with the PG0-X50 or if we should apply our method from M2 to calculate the v naught values of PG0-X50.
+The instructions for M3 were very confusing and could have been more clear about when the reference values were used and when the calculated values were used.
+I think the usage of functions to solve values of V0 and Km was a bit confusing
+What M3 is supposed to be? The difference between table 5 a and table 5 b was confusing.
+I thought that a lot of the instructions were unclear for M3. Part 0 asks for strengths and limitations of our algorithm, and then asks us how we will utilize the feedback we received to change our algorithm. However, we did not get any feedback on our algorithm, and we did not lose any points on our algorithm. Also, we were addressed by a TA that said that we needed to use the given V0 values for the new enzyme to calculate Vmax and Km, not our algorithm calculated V0 values. This is not inherently obvious, and is a very important distinction to make. The instructions need to be clearer."
+102,"The most interesting part was my first in-class experience with the MATLAB. I noticed that it is a very powerful tool with a lot of functions.
+I found using matlab to be interesting as it felt fairly fluid and responsive during use.
+Alot of studio time to work on the assignment. I felt productive working in class and got the assignment almost done
+Learning more about vector operations and getting to practice manipulating different sized vectors and scalars was a good skill to develop.
+TA was quick to react and they came over as soon as I raised my hand.","I found the ICA the most interesting because it allowed us to use Matlab a bit more than the first class.
+I found the use of MATLab file sharing for our in class activities to be very interesting.
+I found using matlab to be interesting as it felt fairly fluid and responsive during use.
+The Matlab assignment 04 was fun and methodical.
+Learning more about vector operations and getting to practice manipulating different sized vectors and scalars was a good skill to develop."
+103,"Nothing so confusing
+I felt that there was nothing that needed additional explanation in this class.
+I thought the process of finding the initial velocity was a bit confusing at first and how it related to our in-class activity, but our team figured it out.
+Finding the initial velocity has been a little confusing because it was little hard to understand at first.
+The plan for next week was a little confusing. We will be working on the other variables for the whole next week or will we be going on the the next step with algorithms revision?","I thought the in class activity was confusing.
+I feel like the large data set that was given to us was a little but confusing to me.
+Finding the initial velocity has been a little confusing because it was little hard to understand at first.
+Nothing so confusing
+The plan for next week was a little confusing. We will be working on the other variables for the whole next week or will we be going on the the next step with algorithms revision?"
+104,"I found working on A10 with my teammates to be most interesting
+I thought the in class was activity was interesting in how it showed different outputs depending on how you called the function.
+the most interesting part was how multiple UDFs were combined into one main function.
+The usage of script vs functions and how you can call a function multiple with different output variables names.
+I found that it was interesting how to use breakpoints within your code.","The use of a main function to manage the UDF was interesting because it seems very useful.
+the most interesting part was how multiple UDFs were combined into one main function.
+I thought the in class was activity was interesting in how it showed different outputs depending on how you called the function.
+I just realized the classroom in Friday is different from the Wednesday.
+The usage of script vs functions and how you can call a function multiple with different output variables names."
+105,"I found the array indexing the most interesting. It was cool to run the code and see the correct element appear.
+The linear and and array indexing for replacing values was quite interesting and helpful for updating matrices without hard coding them.
+I thought it was interesting that matlab can tell you where your errors are.
+Learning more about Matrices within Matlab was interesting for sure, and I look forward to hearing more about them in the future
+I found the use of scripts and the programming standards to be very interesting.","I found the array indexing the most interesting. It was cool to run the code and see the correct element appear.
+Learning more about Matrices within Matlab was interesting for sure, and I look forward to hearing more about them in the future
+I thought it was interesting that matlab can tell you where your errors are.
+I thought that seeing how array indexing and concatenating could be used together was interesting.
+I found the indexing section more interesting since it is much better than debugging which can get kind of frustrating and boring."
+106,"Nothing was confusing in todays class.
+Instructions on how to find parameters km and vmax. It is unclear how many of these values we will find and how to output them to the command window or compare them.
+Finding the values needed was a bit confusing
+I am unsure if we should do the edits and modification to our code now or wait until milestone 3.
+I thought the calculations of V0 were confusing until we talked with our teaching team.","Finding the values needed was a bit confusing
+Nothing was confusing in todays class.
+I thought the calculations of V0 were confusing until we talked with our teaching team.
+The graph in the video was a little unclear. The trend line was not labeled which made it a little confusing
+I am unsure if we should do the edits and modification to our code now or wait until milestone 3."
+107,"figuring out ways to code and finding the commands that worked
+I think it was interesting how much you can do with Matlab. I feel like we are just now getting into the complex things, and I am excited to do more with it.
+Applying the logic operators to simple equations and being able to find the answer.
+It was interesting to do group activities. I enjoyed joining a break out room and being able to collaborate with classmates.
+What I found most interesting was that I can learn the same on zoom as I do in class","What I found most interesting was that I can learn the same on zoom as I do in class
+Something very interesting from todays class was that MATLAB requires in between relations to be portrayed differently so it correctly understands both commands it must follow to be true or false. 
+I think that working out some of the examples in the class activity was the most interesting, just seeing how the computer ran through what we inputted.
+I thought it was most interesting how many different ways you could code the same thing. There were a lot of people in our class with different commands for the same thing. 
+The logic functions were very interesting, especially how they can be chained together to do more complicated things. "
+108,"I would have loved more clarification on how to combine read matrix commands with specific parts of the matrix
+I was confused about how to open up and read matrix the different files in matlab. I needed more details on how to save an m file to my account for grading.
+Some of the technicalities of plotting and displaying multiple sets of graphs across different pages.
+Coding and using subplots could have been explained in more detail.
+The specific syntax and order of edits to graphs were confusing. Titles were difficult to place properly with multiple graphs in a figure.","Nothing was confusing but it did take me time to understand the read matrix because I kept forgetting to name it. 
+Nothing was confusing but it did take me time to understand the read matrix because I kept forgetting to name it. 
+I found deciding which plot to use for what type of data to be confusing in today's class 
+It was confusing at first how to combine both the y1 and y2 axes into one graph for the homework assignment. But after a while I was able to figure it out. 
+What needed more details was the information about the assignment A06 as the first part as well as part three of the assignment was confusing. I needed a bit of clarity whether it should be a scatter plot or line plot."
+109,"There was nothing confusing in class today.
+Explaining more the looping without looping, please.
+y was a little unexpected but made sense once I was able to use it in Matlab
+More practice or examples on harder indexing for the matrix would be appreciated, as the examples are too easy.
+Even with the example in class I still am confused on question 1 for A11.","Modifying for loops to stop or change directions was a little confusing. The use of x:-1:y was a little unexpected but made sense once I was able to use it in Matlab
+Most confusing is still complex loops
+The way that we switched the direction of the for loops was a little bit confusing. I never knew we could increment values by -1 using the colon.
+The different ways to move through a matrix using a complex loop is still a little confusing to me. It took aw while to figure out how to do the in class activity.
+I think it would be more helpful if the in class example of nested for loops outputted a matrix, like what has to be done for A11, rather than outputting a linear array."
+110,"I thought learning about the applications of nested loops was quite interesting.
+How to use various loops to create a more complex structure
+How selection structures work
+The tic toc function was cool to know about in todays class. It makes it really easy to understand what processes take a long time.
+How fast your program can code one way vs another way.","Complex loops and how we can reduce the time it takes to run a program.
+I thought learning about the applications of nested loops was quite interesting.
+The difference in code runtime when code was suppressed or when loops were avoided was most interesting
+Timing loops using tic and toc.
+How to use various loops to create a more complex structure"
+111,"The if, elseif, and end statements might get a little confusing as we progress, so having a basic understanding of what is actually being done is very important.
+I found it difficult knowing when to use else vs elseif
+input function
+I struggled to understand why i needed | | vs | while i was doing the in class activity.(Matlab told me to)
+Assignment 06 concepts of have one set of data where we have to compare the conditions","The if, elseif, and end statements might get a little confusing as we progress, so having a basic understanding of what is actually being done is very important.
+The if, elseif, and end statements might get a little confusing as we progress, so having a basic understanding of what is actually being done is very important.
+The most confusing thing in class today was dealing with the selection structures, particularly the ones with the nickel and temperature.
+Nothing was confusing this class.
+I found creating the selective charts in MATLAB confusing."
+112,"Everything was clear.
+Not a lot was done today, so nothing was really confusing. We had a lot of studio time, so that was really helpful.
+Main functions are still confusing. A10 question 2 looks very confusing.
+Today in class I was confused on the nesting structures that involved while loops and selection structures specifically how the index of the else section in the example changed the last value of x in the iteration above changed to a different value
+I found problem 2 of assignment 10 a little bit confusing, but not too bad, and being able to work with folks definitely helped.","The thing I found most confusing was keeping track of the values of different variables as they moved through a series of functions. However, the examples we did to practice this in class were helpful.
+I find calling sub-functions within a main function confusing.
+Main functions are still confusing. A10 question 2 looks very confusing.
+Nothing was confusing today. I got information I needed about everything confusing from last class.
+This class really had nothing confusing. It was really just a continuation of the user defined functions. So nothing really required extra explanation."
+113,"MATLAB coding and functions
+I found it interesting to see how we will use MatLab this semester.
+I was most interested in learning about the functions of MATLAB, specifically the commands we used in the in-class assignment and in A04.
+I enjoyed the in class activity a lot. It was a nice intro into some coding assignments
+Doing assignment 4","I am a beginner when it comes to coding, and I think this class was such a nice starting. I think that Professor Morphew is doing a great job so far explaining the basics of MatLab. It was interesting to learn about arrays and vectors which are fundamentals when it comes to all types of coding. It was also enjoyable to perform calculations using specific tools that MatLab require.
+I found it interesting to see how we will use MatLab this semester.
+MATLAB coding and functions
+I was most interested in learning about the functions of MATLAB, specifically the commands we used in the in-class assignment and in A04.
+I found it interesting to define variables and run functions using those variables in MATLAB. I do not have much experience with coding, so writing everything in the proper syntax so that the code runs correctly is still a little challenging for me. However, it is very rewarding to type and run a line of code and watch MATLAB generate the correct answer."
+114,"Learning how to plot different data sets.
+You can plot multiple graphs in a single array. The fact that you can plot these graphs side by side to make quick comparisons without having confusing intersections is neat.
+fprintf function, plotting continuous data sets
+Assignment was interesting and challenge
+I thought the example used of the data from Subaru of Indiana was an interesting and applicable real-life example.","I found the plot command to be very interesting. It was cool to see the code used to generate formatted graphs and charts.
+I found it interesting how easily was can plot extensive data
+Plotting several graphs onto one figure using the subplot was interesting. A single function name to do such a powerful thing is cool.
+I found it interesting how you could get an excel file to be converted onto matlab to be able to use the data.
+I found learning how to import data interesting."
+115,"I got the clarification I needed. Nothing was confusing.
+Complex looping
+NaN filters
+Writing out all the equations manually in Matlab can be long and tedious.
+I believe more details that were needed were the NaN examples and replacing/removing data points in matlab.","The thing that was the most confusing would be getting rid of the NAN values and how you would go about doing that.
+I did not find anything about class today particularly confusing.
+Nothing was really all that confusing today to be honest. I'm sure I'll get confused when I start working more of A12.
+Nothing was confusing in todays class.
+I found using SSE and SST confusing"
+116,"I like working with my team
+I enjoyed the class time to work with my group
+I liked looking at the different approaches for linearizing our data.
+Coding in matlab and getting it to work
+The actual coding","Today I really liked having a lot of work time with my team to make progress on our code
+I enjoyed the class time to work with my group
+I found the work on actually starting to build a program for milestone 2 the most interesting.
+A lot of time to work and prepare for the next class as well as finish the current work
+Finally getting the loop to work to find the v0s"
+117,"I enjoyed being sorted into our teams.
+It was nice to meet our team. I found the find function to be interesting
+stacking multiple if-statements inside each other was very interesting, although I do recall hearing that there are more efficient ways to program
+I found the in class assignment most interesting
+Understanding flowcharts!!","I found the applications of the if statements most interesting. It opens up a lot of possibilities within matlab
+I found the applications of the if statements most interesting. It opens up a lot of possibilities within matlab
+It was nice to meet our team. I found the find function to be interesting
+The most interesting was the logical statements combined with the elseif statements.
+Meeting the team was the most interesting because everyone gave off really good vibes and everyone seemed very productive and willing to work hard on our first assignments together."
+118,"Nothing was confusing today
+The nested loop structures where one of the parameters for the second loop would update within the first loop was sometimes hard to follow
+What goes in the for loop declaration
+Sub functions
+More explanation of the homework. How to deal with errors in vector dimensions when everything seems right","How to go through the process of complex loops slower and the meaning of each part of the for loop within a for loop.
+The example of the complex loops in the pre class video was confusing and made the quiz slightly difficultl because I lost track of where they were counting numbers.
+The replacing for loops was a little confusing at first but made more sense as we learned.
+The translation of loops to vectors is still a bit confusing. I understood the examples we did in class, but the problem on the homework, where two different operations could be performed depending on the value of each element, is a little unclear to me.
+The only thing that was a little confusing was tracking all the variable changes in nested loops, but writing them down helps"
+119,"I liked that we got to go 10 min early as that gives me more time to get from class to class since the aero building is so far away from all of the other campus buildings.
+I found the teaming activity the most interesting and it was really good bonding and working with my team.
+User defined functions were the most interesting part of the class. Being able to create a function that can be repeatedly used is a big advantage
+I really liked the in class activity
+In today's class the review for the concept quiz was interesting. In specific, the question about plots.","User defined functions were the most interesting part of the class. Being able to create a function that can be repeatedly used is a big advantage 
+i thought it was interesting how you can use the function to easily compute problems 
+I found it interesting that the user defined function HAS to be declared in the first line 
+I found it interesting that the user defined function HAS to be declared in the first line 
+I found it interesting that a function can be used to loop a single formula with multiple variables. "
+120,"The amount of information you can put into excel and calculate is amazing and very useful. Learning more about the functions and uses of excel was very interesting
+I thought that the in class activity was very interesting. It was helpful to see how choosing the correct chart and how we display the data makes a difference.
+Writing formulas/equations on excel from real data and scenarios.
+I appreciated how the professor pointed out common mistakes or habits, such as how many students are taught to title a graph. This information allowed me to see what habits from previous classes I need to be aware of moving forward.
+It was really interesting seeing how much control we really have over our own learning now.","""Today I found that once I got to start practicing the excel skills on my own, it became more interesting. I also liked exploring with the graph types and settings.""
+The amount of information you can put into excel and calculate is amazing and very useful. Learning more about the functions and uses of excel was very interesting 
+I really found working in excel and creating formulas to solve problems interesting.
+The use of relative and absolute cells in excel was very interesting!
+It was really interesting seeing how much control we really have over our own learning now."
+121,"The most confusing part was the idea itteration
+knowing whether to do 2 or 4 thought experiments was the only confusing thing
+Metrics
+We were confused how to edit the code for the project that we will have to do
+prototyping with our kit.","It would have been helpful to have more information about the first iteration process and prototyping with our kit.
+Nothing was too confusing in class today
+We were confused how to edit the code for the project that we will have to do
+what are the constraints/requirements for the prototype 
+We were confused how to edit the code for the project that we will have to do"
+122,"it was interesting to hear about other group's project.
+Design review
+The feedback form.
+
+","The feedback form.
+I found it interesting to see what ideas other groups have come up with.
+it was interesting to hear about other group's project.
+Design review
+Other groups ideas "
+123,"Having a better understanding of z scores and the probability curve
+I found it interesting to see how studio time works.
+Research into the bike sharing assignment
+I appreciated that we had an assignment on constraints and criteria, which is definitely something I need to practice.
+Trying to use heat maps","I appreciated that we had an assignment on constraints and criteria, which is definitely something I need to practice.
+the most interesting thing was the review of the constraints and constructs 
+I found it interesting to see how studio time works. This was the first class where we spent over an hour working on our projects. I appreciated this opportunity to get work done while also being able to ask questions. 
+Nothing was particularly interesting, but I made good progress on my data analysis. 
+The z score stuff. I took stats in high school so it was really interesting to hear about again "
+124,"The savings calculator and payback time was a little confusing.
+The problem statement and how to write one
+Today I was confused on some of the thermodynamics information
+Details about the information needed for the solar panel activity.
+how to share documents through word","The savings calculator and payback time was a little confusing.
+Today I was confused on some of the thermodynamics information as well as the way to calculate payback time.
+The calculations for determining the payback period were confusing because of how fast we were going through the content.
+""I was confused on the equation for calculating payback period, as well as how to share documents through word""
+I am confused about payback period. "
+125,"Effective means of research for the project
+I was confused about criteria vs constraints
+In class I was still confused about how to address the clients and people involved in an issue in the problem statement.
+The process of writing a problem statement was slightly confusing because we did not discuss tips or things to avoid saying.
+One thing that was confusing was the work we should be doing in class. I felt like there were too many places to get information. We seemed to skip to AO5 and then go back to class 2B and then go back to AO5. It would be great if everything was streamlined under one class.","In class I was still confused about how to address the clients and people involved in an issue in the problem statement. I also got confused with criteria vs constraints.
+Effective means of research for the project
+Nothing
+Nothing
+N/A"
+126,"Detailed design and 3D designs
+The final video presentation.
+what reflection is?
+Weighted decision matrix
+","Weighted decision matrix
+The final presentation information was slightly unclear. Will the final presentation be a longer video recording?
+nothing was particularly confusing 
+Final presentation
+The final presentation"
+127,"I think that what our expectations for work in our groups should be more clearly laid out I was not entirely sure how to approach working when we only had individual assignments.
+One thing that could've used more details would be how to determine what type of chart to use.
+I liked that we went over problem statements more. I think it would've been helpful if we would've been presented with a client memo and then had to come up with a problem statement for that memo as a class. I think more in class examples similar to our assignments would be phenomenal.
+Describing the engineering specific sessions and how they worked was very confusing and not thouroughly explained, however I am assuming that it will be explained in detail more in the future
+This isn't directly related to today's lecture, but I'm still confused on the different data types and determining the data types of different data. I would appreciate if we reviewed this concept further.","In today's class i found everything to be straightforward and nothing confusing
+I found everything discussed in class today to be clear. The pacing was not too fast and the detail for upcoming assignments was understandable.
+Todays class was very good. I was not confused about anything.
+I feel that everything presented in this class was pretty straight forward. I was a little confused about some of the assignment due dates, but the email sent out cleared it up.
+I found that parts of assignment A06 were slightly confusing"
+128,"The integral part and the last problem that we did. I am always confused about how to set up the problem.
+The potential energy of the field was confusing.
+the last top hat question could've had more explanation. i was confused on how to set it up
+The concept addressed in the second concept question, regarding how fields are affected by other fields, was confusing.
+Overall more examples, not necessarily solving but the setup, would be helpful as well as more explanation of dipoles and their potential energy","I didn’t find anything really confusing, but I think it would be helpful to look at calculating potential from an electric field again
+I didn’t find anything really confusing, but I think it would be helpful to look at calculating potential from an electric field again
+I was mostly confused about how to pick bounds for the integral in solving for potential energy. Ultimately, my answer for a question was wrong Bc I chose wrongly.
+I found it confusing when to set the initial potential to zero.
+I found it confusing when to set the initial potential to zero."
+129,"The idea of grounding was confusing for me. I feel like seeing some more examples would be helpful.
+Problem 27.54 with the car motor problem was confusing. I did not understand what the starting motor does. Does it withdraw or add voltage? Does it act as a resistor or a battery? Otherwise your lectures were clear and concise as always.
+I am still a bit confused about why the voltage was negative in the first given example even though the voltage coming out of the battery is positive.
+Current for the last top hat circuit question that was graded
+Re-drawing circuit diagrams with grounds seems to get complicated when multiple branches and resistors/capacitors are involved.","some of the ideas about grounding were confusing, especially with the top hat, but i think i have the general  idea that a grounded circuit has a voltage drop of 0.
+some of the ideas about grounding were confusing, especially with the top hat, but i think i have the general  idea that a grounded circuit has a voltage drop of 0.
+The most confusing thing for me was when we went over the 2 different cases of grounding. I just found it confusing when going over the formulas like whether to add or subtract Ir
+I found grounding to be very confusing; what does it mean for a circuit to be grounded?
+conceptually, I was a little confused how you can have a ground before a resistor, making the voltage zero, and that doesn’t impact the energy continuing on. Mathematically I can see why this is true, but conceptually it’s a bit confusing."
+130,"I found the centripetal force problems to be very interesting. I usuallyenjoy relating centripetal force to conceptual ideas, so I enjoyed thatpart of the lecture.
+ The terminal velocity question was also kinda cool because itexplainedwhy you can't just jump into water safely at large heights. 
+The most interesting thing in today's lecture was calculating theacceleration a person feels when they hit the water from jumping from anairplane.  It showed that the body cannot stand such a massive increasein acceleration .
+ The first few top hat problems about the steel ball vs the ping pong ball. Interesting real life examples.
+I found the explanation of drag force most interesting because it is a topic O have never covered before.","I would say how you can use the drag force and terminal velocity and use them together like done in the water/air plane jump problem.
+What I found most interesting was how we were about to just use the terminal velocity equation until the drag force equation.
+I found it interesting for the terminal velocity and the acceleration is zero
+I found the explanation of the airplane jump example interesting because I learned about drag force in water.
+I found it interesting that even though earth has an acceleration, velocity can still become constant."
+131,"The first problem on the test was interesting as it was a real life situation most have taken a part in.
+The second question about the blocks was actually fun, I had done several like it while studying
+The names of the football players were very interesting
+There was no video to find anything interesting. The problems were interesting though
+I enjoyed group tests simply because people can guide my ideas and help me get the answer. ","The first problem on the test was interesting as it was a real life situation most have taken a part in.
+Question 2 I thought it was interesting as it felt similar to a homework problem we had
+N/A (it was interesting in a way once you got past the panic)
+There was no video to find anything interesting. The problems were interesting though
+The names of the football players were very interesting"
+132,"Probably the most confusing thing was when to use addition vssubtraction in relative motion. I can understand why each works, it justtakes a bit of getting used to.
+The monkey hunting problem. I felt that this part of the lecture wascovered too fast. Specifically, I was a little confused about therelation between the two Delta Y equations (the monkey and bullet). Ididn't understand this setup fully.
+ the problem where we had to derive an equation with the shooting ofthemonkey as it was in free fall made absolutely no sense. I stilldontreally get it.
+ need more clarification with the vector relative motion. more example problems 
+I need to work on using the correct kinematics equation. ","I found the relative motion questions really confusing before class examples, and while I still am not exactly sure about them, todays lecture cleared it up a little bit. I think that the monkey example could have used a little more explaining.
+I did not understand the monkey example problem and still struggle with relative motion.
+The arrangement of subscripts/variables used in Relative Motion equations was a bit confusing to me
+Probably the most confusing thing was when to use addition vs subtraction in relative motion. I can understand why each works, it just takes a bit of getting used to.
+I need to work on using the correct kinematics equation. The concept of relative motion is confusing, because I can’t understand reference views."
+133,"How the direction of a resultant vector compares to the value. I have trouble understanding their relationship.
+How the right-hand rule can be manipulated to apply to the cross product and how unit vectors create a direction.
+Something that was confusing about today's video lecture was how in some cases with inverse tangent, you must add 180 degrees to your answer. I understand that this can be seen with the graph of tangent, but I'm not sure how you know when you should trust your answer or know that u have to add 180 degrees.
+Using Top Hat/getting used to using Top Hat was a bit confusing and tough. I wasn't always sure when to submit answers, how much time I had, and I had some trouble getting out of the zoom window quickly and to the Top Hat one. I think the more practice I get with it though the better I'll get at it.
+Just a quick review of when to use sin vs cos in vector math and which angles to apply, depending on which function is chosen (just because they are, technically, interchangeable)","The only thing I found confusing in today’s lecture was the second top hat question we did. I was confused about how to determine whether we would add the vectors or subtract them.
+I think it was a pretty good class, vector subtraction was a bit confusing but I think the explanation on adding vectors was great!
+In today’s video lecture I struggled with figuring out when to subtract and when to add vectors. For example, in the yeti problem I did not know if you were supposed to add the two vectors or subtract them. The same goes for the Top Hat question earlier. in class regarding RA and RB. My instinct is to always add it it confuses me on when to subtract.
+There wasn’t anything really confusing about today’s lecture. I had a little trouble with the top hat questions however I seemed to get the hang of it by the end. I liked that the teacher drew the graphs and vectors.
+Today’s video was good. I was confused throughout the video on how to know whether or not to subtract or add vectors based on the specific question, but I believe that is more so me understanding the problem and how to properly draw out the graph and vectors and understanding what the question is asking us to do than the actual math itself. Therefore I believe that with additional lectures and practice I will have it down!"
+134,"I thought the circuit demonstration in class was really interesting
+I liked the demonstrations of the sine functions and comparing it to the spring.
+I always find the demonstrations interesting and I think they do a good job correlating with class topics
+different types of currents in circuits
+I really liked the energy analogy with inductor/capacitor energy and KE/spring energy. It was confusing at first, but that analogy with one being max and the other 0 made perfect sense.","Oscillating circuit. I wonder what application this has in circuits if the current disappears so quickly
+I thought the circuit demonstration in class was really interesting
+I found the demonstration showing the visual similarities between springs and the simple harmonic motion of LC circuits
+the example with the circuit that had the inductor and being able to see the current on the board
+The live demonstration of a circuit with an inductor"
+135,"the demonstration of how changing current inductance or resistance would change the graph
+I thought the in class demonstration with the manipulation of the waves was interesting.
+I liked the computer simulation of the phasors.
+The visual representation of the vectors and graphs was helpful
+The fast that all the voltages add up to emf.","I found the initial demonstration shown to be interesting. Additionally, understanding the various ways to solve for voltage and current, along with the idea of using phasors to do so was cool.
+I found it interesting to see the vectors and how they aligned with the graph. Seeing them at the same time was a really helpful visual for me and the friends I sit with in class.
+I found it interesting the period of the graph for charge is capacitance independent
+I found the visual with the dampening oscillation very interesting. That helped me visually understand how the graph changes when some of the factors change.
+What was most interesting is seeing how the graph is affecting by changing characteristics such as amplitude."
+136,"I felt like everything was explained very clearly today.
+Nothing was confusing. The syllabus, achieve, cubits and the concept of a flipped class was explained well.
+The road map at the end of class felt kind of rushed.
+I wanted to know more about how recitation will work this semester, if there will be a group form of quiz or not.
+Can the particle be anywhere inside the charged shell for the theorem to be true, or must it be in the center of the shell so that forces cancel out? If the particle can be anywhere within the shell, why do no forces act on it?","Nothing was confusing. The syllabus, achieve, cubits and the concept of a flipped class was explained well.
+Nothing. I took his class last semester so I am pretty familiar with the syllabus.
+for someone who hasn't been in such a class before understanding how the outside of class portions of the course are handled/graded was confusing
+Overall, the presentation of the class was very well explained and easy to understand. Since I had PHYS 0174 last semester, the structure of the flipped class was familiar. I cannot speak on the behalf of students who haven't had a flipped class before, however.
+The explanation on syllabus are detailed and easy to understand. Most things are explained. Nothing particularly confusing. CourseMirror's app is indeed confusing however with inaccurate assessment of response by machine."
+137,"I liked the demonstrations you did at the front of the room. they help me understand topics more than usual
+The demonstrations
+The demonstration of current direction and the resulting attractive forces was interesting
+Question of which distance (abc) is greater interests me.
+I thought that the explanation for the clicker question with the four squares a,b,c,d was very clear and helped me to better understand the concept of magnetic fields a lot better.","I found the implementation of the right hand rule to find the force on parallel wires to be interesting.
+I found the magnetic force demonstration with the parallel and anti parallel wires to be interesting.
+Interesting parallels between magnetic field and gravity (force between two wires dependent on distance between them and current of each wire)
+The demonstration of current direction and the resulting attractive forces was interesting
+I thought the wire attraction was a cool demonstration."
+138,"I really enjoyed the demonstrations and the behavior of light through the slits.
+I thought that the demonstrations of the two slot experiment using water and the light was pretty interesting.
+The snells law for application problems. Also on different n value
+How wavelength of light can affect the diffraction pattern in double slit experiment
+I thought the index of refraction was a cool concept","I thought that the demonstrations of the two slot experiment using water and the light was pretty interesting.
+I found the demonstration simulating the light waves with water and the strobe light to be interesting.
+It was interesting and very helpful seeing the real waves on the overhead because it made sense how there were dark and light spots.
+I found the demos where the waves were projected in water for us to see helpful as well as the interference pattern demonstrated by the laser. This helped me to visualize the double slit experiment better. I also think the conceptual rational behind the increase of decrease of the spacing between the fringes was interesting.
+I thought it was great seeing the spaces between the lasers to show that there are light and dark spots to the double slit experiment"
+139,"I really enjoyed learning about intensity and the demos showcasing the shape of the electric and magnetic fields was quite interesting.
+The live demonstrations and models on the computer greatly increased my understanding of the information covered.
+I really liked the computer model of E field and B field. It was a cool representation. Also, I really liked the lightbulb demo. Both were simple, but really cool demonstrations.
+I thought that some of the visuals you had prepared were interesting. I liked seeing the 3d graphs of the perpendicular waves.
+I found the 3D animation of an electromagnetic wave to be interesting.","I thought that some of the visuals you had prepared were interesting. I liked seeing the 3d graphs of the perpendicular waves.
+I find it interesting that light has a force. Even though it is small, I find the connection between waves and force interesting.
+I thought it was most interesting finding the frequency of visible light.
+I found the coiled spring to be interesting.
+I like the demonstration. As you said, it was beneficial in visualizing the electromagnetic fields. I think it will help with problems in the future when I try to determine where a component of the field is in relation to the other."
+140,"I enjoyed all of the demonstrations especially the one with the ring flying off of the top.
+The demonstration done in the classroom
+The demo with the super cold metal ring be the room temperature ring that showed resistance affects B induced
+I think the last question about which shape slow down the most is interesting to me.
+the last tophat question","I found the demonstration of dropping the slugs down the pipe the most interesting.
+I thought the last demonstration was interesting how the shape not completing a circuit was illustrated to be significant.
+I found interesting how the cooler the ring is the more resistance present.
+The demonstration of how the presence of a loop regardless of pockets in an object will still cause it to slow down when moving through a magnetic field.
+The pendulum demonstration that showed how area affects the velocity of an object passing through a region of magnetic field"
+141,"The question about the 2 metal plates where you had to find the magnitude of the electric field halfway between them was pretty confusing
+I was confused on how cancelation occurred outside of two charged plates. I understand why the field doubled inside though.
+using gauss law and symmetry was difficult. I did not understand why and when to use which shape for gaussian surface.
+Electric field due to the presence of multiple gaussian surfaces
+Today I was confused on what to do for the area between the 2 spheres for that practice problem","The question about the 2 metal plates where you had to find the magnitude of the electric field halfway between them was pretty confusing
+I was pretty confused about how symmetry and electric field work together.
+I was confused on how cancelation occurred outside of two charged plates. I understand why the field doubled inside though.
+Electric field due to the presence of multiple gaussian surfaces
+The practice problem with two metal plates"
+142,"I am a little confused with the first question about reflect of thin films, like how it works.
+the first tophat problem involving the four situations could have had a better explanation as i was left confused by the question
+I found knowing when to switch the equations to be confusing because it requires a lot of thinking.
+the use of m
+I would like more details on why the thin films we were looking at were so many different colors. Is it because they are different thicknesses?","I was confused on the layers of light, and when they switch.
+I was confused about the explanation of equations also it was hard to hear you
+I am a little confused with the first question about reflect of thin films, like how it works.
+the first tophat problem involving the four situations could have had a better explanation as i was left confused by the questions
+I think it was confusing trying to figure out how refraction affects wavelength (the problem where the scuba diver was under the water)"
+143,"I found the process of setting up the integral pretty interesting, considering all of the steps that went into it and the substitutions made.
+Ring of charge question
+The semi-infinite rod problem
+Learning about the different types of charge densities was interesting
+The integration method to find the electric field of object was interesting. I liked how there","I found interesting that we were able to calculate charge of a point using distance and both the x and y axis. 
+Learning about the different types of charge densities was interesting
+The concept of figuring out how a 2 or 3 dimensional object with uniform charge density contributes to the electric field is interesting.
+I think the way to set up the equation for the practice problem is interesting.
+The integration method to find the electric field of object was interesting. I liked how there"
+144,"In the First top hat question, how did Professor Nero determine that one of the components cancelled?
+When you said Object B had a charge of 1 and we had to determine the charge on Object A I was confused. However, after you clarified that Object A had 4x as many field lines, the answer made sense.
+I am still confused about why we need to visualize electric fields. I feel like it is redundant because we know the direction of force on a point charge without it.
+Calculating electric field vs. Electric force was the only confusing part of the lecture
+The only confusing thing was the signs of the charges.","Today I was a little bit confused on the problem where we calculated the electric field in components for point P.
+The components of the electric field were confusing
+The Top hat question where there were 2 point particles on the x axis and were trying to find the electric field on a 3rd on the y axis. Overall the question felt like a big jump conceptually and I was really lost how we got to conceptually talking about electric Fields to calculations 
+I am still confused about why we need to visualize electric fields. I feel like it is redundant because we know the direction of force on a point charge without it.
+Calculating the electric field at different points in 2 dimensions was confusing."
+145,"I was slightly confused about phase shifts for the graphs shown at the end of today's class.
+The phase shift of the graphs
+I feel like class went very well today. Sometimes things got a bit confusing, but I felt like everything was cleared up and it eventually made sense to me. I was confused on using the shearing and tension/compression equations, but working through the problem with my peers helped.
+I was confused by the difference between sheer and bending in the ruler example
+Today I was a little bit confused on doing problems with the graphs of simple harmonic motion. As we did more problems in relation to this I began to understand it much more. It was helpful when you explained how frequency and amplitude affect the graph and the motion.","I was slightly confused about phase shifts for the graphs shown at the end of today's class.
+I was slightly confused about phase shifts for the graphs shown at the end of today's  class.
+I feel like class went very well today. Sometimes things got a bit confusing, but I felt like everything was cleared up and it eventually made sense to me. I was confused on using the shearing and tension/compression equations, but working through the problem with my peers helped.
+Today I was a little bit confused on doing problems with the graphs of simple harmonic motion. As we did more problems in relation to this I began to understand it much more. It was helpful when you explained how frequency and amplitude affect the graph and the motion.
+I was a little confused by the demonstration and why it proved our equations."
+146,"I found it very interesting how a lot of the class was involved with live demonstrations. These demonstrations definitely deepened my understanding of the material.
+I liked the demo that proved that surface area was not connected to friction.
+I really liked learning the theoretical aspect of friction force because it is something that I felt my grasp of improved significantly during lecture.
+The friction problems
+Learning how to set up friction equations and the coefficient of friction","I found finding different friction variables to be interesting
+I thought that it was interesting that the friction force is the same no matter how big the surface area of an object is as long as the coefficient of friction is the same.
+I really liked learning the theoretical aspect of friction force because it is something that I felt my grasp of improved significantly during lecture.
+I liked the demo that proved that surface area was not connected to friction.
+The friction problems"
+147,"the last top hat question, specifically free body diagram
+I felt as if the last problem regarding the two blocks could have had a little bit more detail.
+The last problem we worked on that involved the two stacked blocks and varying coefficients of friction was confusing to me. I had trouble visualizing it, so I think going over it in more detail would have been helpful.
+the push pull problem
+The problem where the coefficient of friction was greater than one.","The problem where the coefficient of friction was greater than one.
+I found the final problem about the friction force of the top block on the bottom block to be a little confusing. I'm not really sure how to find the normal force exerted by the top block on the bottom block.
+The last problem we worked on that involved the two stacked blocks and varying coefficients of friction was confusing to me. I had trouble visualizing it, so I think going over it in more detail would have been helpful.
+I felt as if the last problem regarding the two blocks could have had a little bit more detail.
+the push pull problem"
+148,"I really enjoyed the live demonstrations that were incorproated into the lecture. I found that these demonstrations solidified my understanding of the material.
+I found the demonstration with the three balls connected by a single string to be very interesting. I learned that pulling down on the bottom ball fast would break the lower part of the string, while doing it slowly would break the upper part of the string.
+The problem of string tensions is interesting while being confusing.
+I think the practice problems involving tension really helped my understanding of the concept, especially the balls connected by strings.
+Using the graph of jakes jump to analyze the forces he exerted on the pad. It was a fun example that helps people visualize everything going on","I found the demonstration with the three balls connected by a single string to be very interesting. I learned that pulling down on the bottom ball fast would break the lower part of the string, while doing it slowly would break the upper part of the string.
+breaking the string with the balls
+I enjoyed the ball experience that you showed us in class.
+I really enjoyed the live demonstrations that were incorproated into the lecture. I found that these demonstrations solidified my understanding of the material.
+Using the graph of jakes jump to analyze the forces he exerted on the pad. It was a fun example that helps people visualize everything going on"
+149,"I found that the work done by Fg in slide problem to be interesting because the work gravity does is only dependant on the force of gravity and vertical displacement.
+The work questions
+I liked the police car problem because I thought the setup for it was very interesting.
+I thought calculating how far distance wise it would take for a car to stop based on its speed was really interesting
+The crash problems","The examples were very valuable especially the ones dealing with work, and the car example with the tree and final velocity
+I liked the police car problem because I thought the setup for it was very interesting.
+The crash problems
+The demo
+I found that the work done by Fg in slide problem to be interesting because the work gravity does is only dependant on the force of gravity and vertical displacement."
+150,"I thought all of the demonstrations were really interesting and particularly appreciated the loggerpro demonstration of how energy added to a system increases the frequency of motion suddenly because that was knowledge that helped me answer the next couple of questions.
+I found the multiple in person live demonstrations to be most interesting.
+I found the demonstration of resonance where the frequency of the pendulum was changed to demonstrate resonance or the lack therefore most interesting.
+I liked looking at how kinetic energy is transferred in a swing
+How the k constant didnt vary when we changed the mass on the spring","I found the demonstration of resonance where the frequency of the pendulum was changed to demonstrate resonance or the lack therefore most interesting.
+I thought all of the demonstrations were really interesting and particularly appreciated the loggerpro demonstration of how energy added to a system increases the frequency of motion suddenly because that was knowledge that helped me answer the next couple of questions.
+I found the multiple in person live demonstrations to be most interesting.
+Today I found it interesting watching the blue and red ball on the pendulum resonate and transfer energy to each other. This helped me understand what resonance is conceptually.
+I found resonance very interesting, the energy transferring from one ball to another was very cool"
+151,"The wave demonstrations
+The demos were very cool
+The traveling waves top hat questions
+The examples today in class were very interesting. It really helped understand nodes and antinodes.
+When you had the string tied and you changed the frequency by turning a knob. I thought it was really cool how when you turned it to resonant frequencies it had a different shape.","I found it I interesting to see the different harmonics and how they caused nodes on the string. I also thought it was cool how it began to make a sound.
+I found the demos in which we were able to see the standing waves and the change in the number of nodes with frequency interesting. Seeing the direct application of the equations we were working with in the problems and how they could be directly represented by the graphs we drew was very interesting and fun.
+I thought that the demo showing the standing waves and the harmonics was extremely interesting. I really enjoyed seeing it!
+The examples today in class were very interesting. It really helped understand nodes and antinodes.
+that three waves of different wavelengths had the same velocity"
+152,"I really enjoyed how a big aspects of todays class was focused on live demonstrations.
+the demonstrations
+shooting the monkey
+The demonstrations, especially the monkey
+I found the in-class demonstrations the most interesting. Particularly the experiment demonstrating an object shot straight up from a moving vehicle.","The demonstrations, especially the monkey
+I found the in-class demonstrations the most interesting. Particularly the experiment demonstrating an object shot straight up from a moving vehicle.
+I really enjoyed how a big aspects of todays class was focused on live demonstrations.
+the demonstrations
+I thought that using vectors to represent an object's velocity was pretty helpful in relative motion problems."
+153,"the right hand rule and why vector was c was negative
+the right hand rule needs a little bit more detail because it's still confusing with figuring out the direction of the 3rd vector.
+the question about the left handed system
+The vector problems that required you to find the direction.
+The most confusing part was figuring out the direction of the cross product between two vectors. The right hand rule was a good example of finding that though.","The most confusing part was figuring out the direction of the cross product between two vectors. The right hand rule was a good example of finding that though.
+the right hand rule needs a little bit more detail because it's still confusing with figuring out the direction of the 3rd vector.
+I feel as if the drawing comparing the 6 different axes regarding the right hand rule could have been more descriptive. It took a little bit for me to be able to grasp the concept. With a clearer image, I definitely would have been able to answer the question with more ease.
+The content of the lecture was mostly straight forward. The right hand method was somewhat confusing at first, but as Professor Nero went over the practice problems, the concept gradually became easier to grasp. Otherwise, the explanations of the process of computing the dot and cross product was pretty straightforward. The only things that might need more clarification are the ways to find the sign/direction of the dot product and the purpose and use of the cross product.
+the right hand rule and why vector was c was negative"
+154,"I thought learning through using the track was really interesting and gave me a visual for different types of collisions that I will be able to refer back to in the future.
+The examples with the fan in the front of the class allowed us to visualize the concepts easier.
+I found the concept of center of mass that we used in the rocket problem most interesting, because the rocket and fuel were both in motion while the center of mass was not.
+I thought that it was interesting that momentum could be conserved. Elastic collisions are interesting because it applies both conservation of momentum and conservation of kinetic energy.
+The collision demonstrations","The demonstrations with the objects sliding towards each other was interesting
+I thought that it was interesting that momentum could be conserved. Elastic collisions are interesting because it applies both conservation of momentum and conservation of kinetic energy.
+I found it interesting that in every collision momentum is conserved even if kinetic energy is not.
+The demonstrations on the air track
+The collision demonstrations"
+155,"I thought the in class demonstration with the polarizers was very interesting.
+I really liked the light demonstration where you shined a light through a glass tube and then put it through water. It was cool seeing the light change.
+I found the example with the laser and the refraction to be interesting.
+I liked the last demonstration with the light filters. Probably my favorite demonstration of the year.
+I liked the demonstration in class","The laser demonstrations with reflection and refraction were very fascinating! Excellent way to show the effect of reflection with light in multiple different indexes.
+I found the laser pointers in the demos interesting because they are a good representation of light waves.
+I found the fact that we could calculate the vision range of a fish interesting. I thought this example was engaging because of this. I also light the laser related examples because they were pretty. I also like the example of manipulating the light that could pass through the panes on the projector.
+The demo showing how light gets through was very interesting.
+I found most interesting was how water and air affect light."

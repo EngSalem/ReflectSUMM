@@ -1,0 +1,4 @@
+"""reflections: [one-shot reflections] \n Can you summarize the reflections, which are split by the special token ||, by extracting and selecting 5 original reflections from the split list? \n [one-shot answer]
+   
+reflections: [reflections] \n Can you summarize the reflections, which are split by the special token ||, by extract and select 5 original reflections from the split list? \n
+"""
