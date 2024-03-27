@@ -1,8 +1,11 @@
 # REFLECTSUMM
 
+ [**Dataset**](https://github.com/EngSalem/ReflectSUMM/tree/main/data) | [**Prompts**](https://github.com/EngSalem/ReflectSUMM/tree/main/prompts) | [**Model Outputs**](https://github.com/EngSalem/ReflectSUMM/tree/main/model_outputs)
+
 This repository contains the code, data and model outputs for the LREC-COLING 2024 paper: 
 REFLECTSUMM: A Benchmark for Course Reflection
 Summarization
+
 
 ## Abstract
 
