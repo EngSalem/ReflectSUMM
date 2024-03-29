@@ -30,8 +30,9 @@ The ReflectSumm dataset can be found in the ``data`` folder as ``ReflectSumm.csv
 The followings are descriptions of column names
 |Col. name | Description | Example|
 |--|--|--|
-|course|Course name + time ; Meaning: Course name with the offered semester| phys0175_1230-spring2021|
-|number | The lecture name within the semester| 13|
+|course_annoyID|Annonymized Course name: Course name with unique identifier| phys_1|
+|semester|four unique semesters| semester_0|
+|lecture number | The lecture name within the semester| 13|
 |prompt| Reflection prompt on ''Describe what you found most **confusing**/**interesting** in today's class''|Describe what you found most interesting in today's class?|
 |text_annotated_level*| the concatenation of reflection with annotated specificity (1-4) | All of the different ways to use Ohm's Law by rearranging the equation -> 3|
 |text-predicted_level* | the concatenation of reflection with baseline predicted specificity (1-4)| All of the different ways to use Ohm's Law by rearranging the equation -> 4 |(see dataset)|
