@@ -30,7 +30,7 @@ The ReflectSumm dataset can be found in the ``data`` folder as ``ReflectSumm.csv
 The followings are descriptions of column names
 |Col. name | Description | Example|
 |--|--|--|
-|course_annoyID|Annonymized Course name: Course name with unique identifier| phys_1|
+|course_anonyID|Annonymized Course name: Course name with unique identifier| phys_1|
 |semester|four unique semesters| semester_0|
 |lecture number | The lecture name within the semester| 13|
 |prompt| Reflection prompt on ''Describe what you found most **confusing**/**interesting** in today's class''|Describe what you found most interesting in today's class?|
