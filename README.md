@@ -1,4 +1,6 @@
 # REFLECTSUMM
+[![Conference](https://img.shields.io/badge/lrec--coling-2024-red)]()
+[![arXiv](https://img.shields.io/badge/arxiv-2403.19012-success)](2403.19012v1)
 
  [**Dataset**](https://github.com/EngSalem/ReflectSUMM/tree/main/data) | [**Prompts**](https://github.com/EngSalem/ReflectSUMM/tree/main/prompts) | [**Model Outputs**](https://github.com/EngSalem/ReflectSUMM/tree/main/model_outputs)
 
