@@ -16,7 +16,28 @@ This paper introduces REFLECTSUMM, a novel summarization dataset specifically de
 ## Citation
 Please cite the following work if you are using our code / data
 ```
-To be Updated
+@inproceedings{elaraby-etal-2024-reflectsumm-benchmark,
+    title = "{R}eflect{S}umm: A Benchmark for Course Reflection Summarization",
+    author = "Elaraby, Mohamed  and
+      Zhong, Yang  and
+      Litman, Diane  and
+      Butt, Ahmed Ashraf  and
+      Menekse, Muhsin",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1207",
+    pages = "13819--13846",
+    abstract = "This paper introduces ReflectSumm, a novel summarization dataset specifically designed for summarizing students{'} reflective writing. The goal of ReflectSumm is to facilitate developing and evaluating novel summarization techniques tailored to real-world scenarios with little training data, with potential implications in the opinion summarization domain in general and the educational domain in particular. The dataset encompasses a diverse range of summarization tasks and includes comprehensive metadata, enabling the exploration of various research questions and supporting different applications. To showcase its utility, we conducted extensive evaluations using multiple state-of-the-art baselines. The results provide benchmarks for facilitating further research in this area.",
+}
 ```
 
 ## ReflectSumm Dataset 
