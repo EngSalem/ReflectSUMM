@@ -1,25 +1,23 @@
 # REFLECTSUMM
-[![Conference](https://img.shields.io/badge/lrec--coling-2024-red)]()
-[![arXiv](https://img.shields.io/badge/arxiv-2403.19012-success)](2403.19012v1)
+[![Conference](https://img.shields.io/badge/lrec--coling-2024-red)](https://aclanthology.org/2024.lrec-main.1207/)
+[![arXiv](https://img.shields.io/badge/arxiv-2403.19012-success)](2403.19012)
 
  [**Dataset**](https://github.com/EngSalem/ReflectSUMM/tree/main/data) | [**Prompts**](https://github.com/EngSalem/ReflectSUMM/tree/main/prompts) | [**Model Outputs**](https://github.com/EngSalem/ReflectSUMM/tree/main/model_outputs)
 
 This repository contains the code, data and model outputs for the LREC-COLING 2024 paper: 
-REFLECTSUMM: A Benchmark for Course Reflection
-Summarization
+[REFLECTSUMM: A Benchmark for Course Reflection Summarization](https://aclanthology.org/2024.lrec-main.1207/)
 
 
 ## Abstract
 
-This paper introduces REFLECTSUMM, a novel summarization dataset specifically designed for summarizing students’ reflective writing. The goal of REFLECTSUMM is to facilitate developing and evaluating novel summariza- tion techniques tailored to real-world scenarios with little training data, with potential implications in the opinion summarization domain in general and the educational domain in particular. The dataset encompasses a diverse range of summarization tasks and includes comprehensive metadata, enabling the exploration of various research questions and supporting different applications. To showcase its utility, we conducted extensive evaluations using multiple state-of-the-art baselines. The results provide benchmarks for facilitating further research in this area.
+This paper introduces REFLECTSUMM, a novel summarization dataset specifically designed for summarizing students’ reflective writing. The goal of REFLECTSUMM is to facilitate developing and evaluating novel summarization techniques tailored to real-world scenarios with little training data, with potential implications in the opinion summarization domain in general and the educational domain in particular. The dataset encompasses a diverse range of summarization tasks and includes comprehensive metadata, enabling the exploration of various research questions and supporting different applications. To showcase its utility, we conducted extensive evaluations using multiple state-of-the-art baselines. The results provide benchmarks for facilitating further research in this area.
 
 ## Citation
-Please cite the following work if you are using our code / data
+Please cite the following work if you are using our code/data
 ```
 @inproceedings{elaraby-etal-2024-reflectsumm-benchmark,
     title = "{R}eflect{S}umm: A Benchmark for Course Reflection Summarization",
-    author = "Elaraby, Mohamed  and
-      Zhong, Yang  and
+    author = "Zhong, Yang and Elaraby, Mohamed and
       Litman, Diane  and
       Butt, Ahmed Ashraf  and
       Menekse, Muhsin",
